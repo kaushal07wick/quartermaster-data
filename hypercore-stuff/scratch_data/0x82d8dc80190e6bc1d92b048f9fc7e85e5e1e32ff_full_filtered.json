@@ -1,0 +1,4267 @@
+{
+  "wallet": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+  "txs": [
+    {
+      "time": 1748591896192,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "amount": "9509412.02",
+        "time": 1748591883970
+      },
+      "block": 612139781,
+      "hash": "0x3f6bdf594d9deb71185b04247c830502023100e3e30e0c09ab80ee391cf4bc40",
+      "error": null
+    },
+    {
+      "time": 1748591520163,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "amount": "5000000",
+        "time": 1748591505285
+      },
+      "block": 612134982,
+      "hash": "0x4c30a03473a8bfb0cc2504247c704601bb00d0aa7fd5151c98e3a960932172bb",
+      "error": null
+    },
+    {
+      "time": 1748591496763,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "amount": "14000000",
+        "time": 1748591485347
+      },
+      "block": 612134657,
+      "hash": "0x380f6d26116a29c564b704247c6f0102014600573b145742461573448d247b9c",
+      "error": "Withdrawal amount over single withdrawal limit."
+    },
+    {
+      "time": 1748590736311,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "amount": "14509412.02",
+        "time": 1748590710399
+      },
+      "block": 612124737,
+      "hash": "0x3137081e23eee2f87cc104247c484101d3009b26b571565d25f42dee6e48a3ca",
+      "error": "Withdrawal amount over single withdrawal limit."
+    },
+    {
+      "time": 1748590363418,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "amount": "100",
+        "time": 1748590339029
+      },
+      "block": 612119975,
+      "hash": "0x596ce0a74b811c25fafe04247c35a702024900f6095fe3eef66244b5f72c0c57",
+      "error": null
+    },
+    {
+      "time": 1748590334548,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "14509512.02",
+        "toPerp": true,
+        "nonce": 1748590326471
+      },
+      "block": 612119594,
+      "hash": "0x944045c867ec7eebaae304247c342a02025c00dba0cb4ae2a91c9e7cdb1f0755",
+      "error": null
+    },
+    {
+      "time": 1748230913510,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607467841,
+      "hash": "0x9b3c73b51f0a47b2e26e04243539410202c5005626ea6b3b0dc6d9cd4388cd4c",
+      "error": null
+    },
+    {
+      "time": 1748229896409,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38",
+            "s": "80000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607454649,
+      "hash": "0xe233b1d7d94f0d9a492804243505b902040600f62063ba3d968734eb71f38126",
+      "error": null
+    },
+    {
+      "time": 1748229102165,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38.5",
+            "s": "20000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607444525,
+      "hash": "0x845c215ebe9f224b7c98042434de2d01ab000ee505c73874d3cf5ff235661a36",
+      "error": null
+    },
+    {
+      "time": 1748228690671,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38.5",
+            "s": "7800",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607439112,
+      "hash": "0xe188b4144c9792d0588b042434c908020181003d024dcbaff26249e2963cd69f",
+      "error": null
+    },
+    {
+      "time": 1748228589985,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38.5",
+            "s": "15000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607437792,
+      "hash": "0x26b4acfcad5a66b41d71042434c3e001e7002433b235645c445233b6a78197f1",
+      "error": null
+    },
+    {
+      "time": 1748228499846,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38.5",
+            "s": "18000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607436617,
+      "hash": "0x047e9acec407041162d5042434bf4902010200bbd8d973ba9b02046aaaeab7a0",
+      "error": null
+    },
+    {
+      "time": 1748228439104,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "38.6",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607435824,
+      "hash": "0x33b1563943f492896fed042434bc3001b100831eeae2f85b9987f1463f7c3abe",
+      "error": null
+    },
+    {
+      "time": 1748228429814,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 97252716352
+          }
+        ]
+      },
+      "block": 607435703,
+      "hash": "0x53f0067fdc4979dfade5042434bbb7016100a1ce3277a53804a676ab7110fe86",
+      "error": null
+    },
+    {
+      "time": 1748228416754,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "38.6",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 607435514,
+      "hash": "0x1c3222ff2680109e429b042434bafa01e800886710b03b5931407b97ea30205a",
+      "error": null
+    },
+    {
+      "time": 1748008037026,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.7",
+            "s": "6000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604597321,
+      "hash": "0x14f679fdf07be6dd74610424096c4902022f002587505c7854a2a6922193eb61",
+      "error": null
+    },
+    {
+      "time": 1748008017439,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.7",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604597076,
+      "hash": "0x1c3b3780d594a5f07b0f0424096b540203b000626a63ef532bac7e30253cbcb1",
+      "error": null
+    },
+    {
+      "time": 1748007885166,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.6",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604595429,
+      "hash": "0xcb4d6bb73ba5d12cb55b04240964e501ca000cfe82fdd371a5d991454bfd4101",
+      "error": null
+    },
+    {
+      "time": 1748007724064,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.6",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604593420,
+      "hash": "0x39f989682579ec34b6f60424095d0c0208df00b109f8adfe68109b6d26f86a18",
+      "error": null
+    },
+    {
+      "time": 1748007693393,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 96613604911
+          }
+        ]
+      },
+      "block": 604593031,
+      "hash": "0xc4494303e8d9829c13480424095b8702024a00090cc35fe79854dec6391988f3",
+      "error": null
+    },
+    {
+      "time": 1748007679647,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "35.5",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604592860,
+      "hash": "0x350e8621d936292318260424095adc0207310080097f039d682152382d2a7826",
+      "error": null
+    },
+    {
+      "time": 1748006779359,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.1",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604581436,
+      "hash": "0x8043c193a8c4dbff0ce90424092e3c02019000471e045dbf540b8048bf2c6951",
+      "error": null
+    },
+    {
+      "time": 1748004583613,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.1",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604553938,
+      "hash": "0x54316d1d26044be0effe042408c2d202043900389de61859b612aaf80705d0b1",
+      "error": null
+    },
+    {
+      "time": 1748004304798,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.2",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604550418,
+      "hash": "0xa85018e13617a3dd258c042408b5120208dc00a44b30c608b56809907dc80a55",
+      "error": null
+    },
+    {
+      "time": 1748004106810,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.2",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604547894,
+      "hash": "0xf1cafbec1cbe20d70636042408ab3602026c00f0a0218e5e8013d8afa573a81b",
+      "error": null
+    },
+    {
+      "time": 1748004002290,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.3",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604546578,
+      "hash": "0xc0c206109f3d4bc4d1a8042408a61202042e009fb00f0eed86b9594c39f94dc0",
+      "error": null
+    },
+    {
+      "time": 1748003895762,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.4",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604545257,
+      "hash": "0x721e8087666a18881703042408a0e90204b4002476d23932b8594f6c76572b8c",
+      "error": null
+    },
+    {
+      "time": 1748003725123,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.3",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604543143,
+      "hash": "0x933967fb5366e92a991304240898a702029800183f8e085a1bae160f3d1e1bf0",
+      "error": null
+    },
+    {
+      "time": 1748003595416,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604541539,
+      "hash": "0xf85234d29ba179cc4d5f042408926302031f007020d17c183f990d5ddba08c18",
+      "error": null
+    },
+    {
+      "time": 1748003422477,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604539328,
+      "hash": "0xe6df3911e7e48607273004240889c00201a400fb3d36cb83720390aa760976de",
+      "error": null
+    },
+    {
+      "time": 1748003244926,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604537168,
+      "hash": "0x5b8c87bc2af7ebe16da9042408815002032300d968e78413d67312a14168093a",
+      "error": null
+    },
+    {
+      "time": 1748002835877,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35",
+            "s": "10000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604532191,
+      "hash": "0xc3dd6fd56a6deea3546a0424086ddf01b0003301aff00f817582ad61effcc1c8",
+      "error": null
+    },
+    {
+      "time": 1748002580543,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "34",
+            "s": "30000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604529143,
+      "hash": "0x884a5f0b48b09bde2dfc04240861f70209f5009cf0a7fc5d0f637c86fadd63b5",
+      "error": null
+    },
+    {
+      "time": 1748002292442,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 96580468478
+          }
+        ]
+      },
+      "block": 604525725,
+      "hash": "0x94f914c96d88d0e66bb4042408549d01da004a6e2814863eba0e1638282d6d2f",
+      "error": null
+    },
+    {
+      "time": 1748002263735,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "35.001",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 604525374,
+      "hash": "0x7f1bacc93c3d3d803535042408533e0203b600558e8b1a8627be576dc654e693",
+      "error": null
+    },
+    {
+      "time": 1748002042824,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xe7a3288ad44a2d32786e00f23401c03a5ad4f112",
+        "agentName": null,
+        "nonce": 1748002036330
+      },
+      "block": 604522760,
+      "hash": "0x07d89b71742c2cbee1b0042408490802043f00c5f88362e5ab613ece6332169f",
+      "error": null
+    },
+    {
+      "time": 1736803094087,
+      "user": "0x97634ac52d5bf7620aff17be184d87a2e8659104",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "token": "LAUNCH:0xa82aa458b2c146e97733d0c05374aa0e",
+        "amount": "1",
+        "time": 1736803151620
+      },
+      "block": 459556020,
+      "hash": "0x12fd8ea79228373e3202041b6444b402024f00a6e84fa8f462f1fba9877b7a8d",
+      "error": null
+    },
+    {
+      "time": 1736436731838,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "21",
+            "s": "19298.47",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 453847511,
+      "hash": "0x65dc754a8a35693bc3f9041b0d29d70201e70087aab7e7b1794a9ae171d0e681",
+      "error": null
+    },
+    {
+      "time": 1736436702430,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 61792962109
+          }
+        ]
+      },
+      "block": 453847058,
+      "hash": "0x07093e3d46e6c1a84901041b0d2812010b00f6a623dbe2d6146db032824dcc54",
+      "error": null
+    },
+    {
+      "time": 1736436473173,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "20.5",
+            "s": "48338.38",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 453843469,
+      "hash": "0xe3261dfce2fcf95deff8041b0d1a0d0202350036f9956d56d2d0024e0cdcb927",
+      "error": null
+    },
+    {
+      "time": 1736436427860,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "990513",
+        "toPerp": false,
+        "nonce": 1736436418737
+      },
+      "block": 453842738,
+      "hash": "0x9dc32180d1cff51bc351041b0d1732020231002afc1609dae00d5f04098ff7c2",
+      "error": null
+    },
+    {
+      "time": 1736436422677,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990513000000,
+        "ethId": {
+          "block_number": 293658013,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x34ce83eb904cdede7f485aebac467a91fb5bab91a91404a8497477ab9d406e66"
+        }
+      },
+      "block": 453842655,
+      "hash": "0x55fa8fcdb1f434897b3e041b0d16df010100a5f8d45b6d5631a86a7b90dab284",
+      "error": null
+    },
+    {
+      "time": 1736436422677,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990513000000,
+        "ethId": {
+          "block_number": 293658013,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x34ce83eb904cdede7f485aebac467a91fb5bab91a91404a8497477ab9d406e66"
+        }
+      },
+      "block": 453842655,
+      "hash": "0xcce5d955fa2f3d3cacf3041b0d16df010300af7ae21111834fdce3af9c2e7c09",
+      "error": null
+    },
+    {
+      "time": 1736436422677,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990513000000,
+        "ethId": {
+          "block_number": 293658013,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x34ce83eb904cdede7f485aebac467a91fb5bab91a91404a8497477ab9d406e66"
+        }
+      },
+      "block": 453842655,
+      "hash": "0xecb24f6d9632f23cb62b041b0d16df01050063ef77800c0d296d72d0d50c47d2",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1736436422299,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990513000000,
+        "ethId": {
+          "block_number": 293658013,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x34ce83eb904cdede7f485aebac467a91fb5bab91a91404a8497477ab9d406e66"
+        }
+      },
+      "block": 453842648,
+      "hash": "0xaaccc3b743ea855d5269041b0d16d80000cdffb6a980a0607df382cbcac28fae",
+      "error": null
+    },
+    {
+      "time": 1736435297450,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "20.03",
+            "s": "49451.44",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 453824905,
+      "hash": "0xd064c56de7a58c38e78e041b0cd18901fb00c5cd5471b1704e9773bbf6002dae",
+      "error": null
+    },
+    {
+      "time": 1736435262023,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "990498.19",
+        "toPerp": false,
+        "nonce": 1736435255776
+      },
+      "block": 453824344,
+      "hash": "0xfdcaa78c4f8ad9f11e32041b0ccf58018800262f53ea92acfc9ce55eee5bf782",
+      "error": null
+    },
+    {
+      "time": 1736435253398,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990498190000,
+        "ethId": {
+          "block_number": 293653351,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xb66356fa3636365c1d0ae714f2468424590f603a52f58e424096aef5b0cb1b90"
+        }
+      },
+      "block": 453824217,
+      "hash": "0xd4ade67304108cfba3d8041b0cced901060055a0edaebf0194e00998c1bf3cc6",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1736435253398,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990498190000,
+        "ethId": {
+          "block_number": 293653351,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xb66356fa3636365c1d0ae714f2468424590f603a52f58e424096aef5b0cb1b90"
+        }
+      },
+      "block": 453824217,
+      "hash": "0x91e70febce031ea5ee33041b0cced90104004e06966b9e6a4d4e511788f83928",
+      "error": null
+    },
+    {
+      "time": 1736435253398,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990498190000,
+        "ethId": {
+          "block_number": 293653351,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xb66356fa3636365c1d0ae714f2468424590f603a52f58e424096aef5b0cb1b90"
+        }
+      },
+      "block": 453824217,
+      "hash": "0x2fbbdfb0293323c69c5a041b0cced9010200bc0a6537622ebb71c269bf0ca564",
+      "error": null
+    },
+    {
+      "time": 1736435253398,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990498190000,
+        "ethId": {
+          "block_number": 293653351,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xb66356fa3636365c1d0ae714f2468424590f603a52f58e424096aef5b0cb1b90"
+        }
+      },
+      "block": 453824217,
+      "hash": "0x1780dc1ec700479f58c4041b0cced90000060a655a14eb9dfd1c36f024afbad1",
+      "error": null
+    },
+    {
+      "time": 1736434934370,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "19.8",
+            "s": "25669.46",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 453819187,
+      "hash": "0xf298546d7db9cd32738d041b0cbb3302024e008d8f043c2a37a4dfe54e731811",
+      "error": null
+    },
+    {
+      "time": 1736434925904,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "19.8",
+            "s": "24513.68",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 453819055,
+      "hash": "0x94bceb56ed7f05848803041b0cbaaf02023b004ddeb48d58857ef32e4d4c3223",
+      "error": null
+    },
+    {
+      "time": 1736434907073,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "990535.3",
+        "toPerp": false,
+        "nonce": 1736434901238
+      },
+      "block": 453818763,
+      "hash": "0x05be2423db6853277f11041b0cb98b01c100a1b969425bc10a67c860847e3901",
+      "error": null
+    },
+    {
+      "time": 1736434895748,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990535300000,
+        "ethId": {
+          "block_number": 293651907,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x7576ceea985fe089dfe7c4f798db6b16a632e64d500b5c2c0ddfccacbe868507"
+        }
+      },
+      "block": 453818586,
+      "hash": "0x61953ef0f956a5a03aa9041b0cb8da010500b6eda7bd5bd082acd3d1a3ea90da",
+      "error": null
+    },
+    {
+      "time": 1736434895748,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990535300000,
+        "ethId": {
+          "block_number": 293651907,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x7576ceea985fe089dfe7c4f798db6b16a632e64d500b5c2c0ddfccacbe868507"
+        }
+      },
+      "block": 453818586,
+      "hash": "0xdbf09506e172c139c1a2041b0cb8da01020082280ff56e7a948c3726791f5c35",
+      "error": null
+    },
+    {
+      "time": 1736434895398,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 990535300000,
+        "ethId": {
+          "block_number": 293651907,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x7576ceea985fe089dfe7c4f798db6b16a632e64d500b5c2c0ddfccacbe868507"
+        }
+      },
+      "block": 453818580,
+      "hash": "0x31e2486c8f486dd329e1041b0cb8d40000a15218cc706366e55a689cc8e03e69",
+      "error": null
+    },
+    {
+      "time": 1736433744986,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xc0893388bc77a67a6cbb3a71352cb6e227d97a06",
+        "agentName": null,
+        "nonce": 1736433732463
+      },
+      "block": 453800436,
+      "hash": "0x4b5e78bcfcc343c4516e041b0c71f402014400d3bc306d1afca59553b3e65c4e",
+      "error": null
+    },
+    {
+      "time": 1736332126891,
+      "user": "0x0ef5cbf621f37e75cfa17ecfb29dc836aa95eba0",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "token": "BUBZ:0x9563495f7d4c195047fc891e2622673b",
+        "amount": "0.01",
+        "time": 1736332105858
+      },
+      "block": 452199658,
+      "hash": "0xef13a4a9204e3172c6dc041af404ea016500cf729858a2e7dba098e9f53eb2cb",
+      "error": null
+    },
+    {
+      "time": 1735903462224,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "24",
+            "s": "42.38",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 445436990,
+      "hash": "0x20e1e82145bb4397fef5041a8cd43e0202d50021f930aa6904c50b124329d816",
+      "error": null
+    },
+    {
+      "time": 1735903281709,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "23.5",
+            "s": "29683.34",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 445434155,
+      "hash": "0xa201c0dfa8cb457d9c76041a8cc92b02011c00915f165e1fb98bfb47e5c6a375",
+      "error": null
+    },
+    {
+      "time": 1735902831718,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 60396033587
+          }
+        ]
+      },
+      "block": 445427122,
+      "hash": "0x33ed4f75d7e49388f0f0041a8cadb20123001c695c28e40dc06f31c07b697076",
+      "error": null
+    },
+    {
+      "time": 1735901156303,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "23.1",
+            "s": "51425.66",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 445400779,
+      "hash": "0xce17d69a49e4bea4867e041a8c46cb01ba00d31bdb3507826ed82abb2a130403",
+      "error": null
+    },
+    {
+      "time": 1735896666671,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 60385966814
+          }
+        ]
+      },
+      "block": 445330289,
+      "hash": "0x82a652a3d5c29eaf4cfb041a8b3371014c0069115cddc85ff06cb15ad79d6591",
+      "error": null
+    },
+    {
+      "time": 1735896448721,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "23",
+            "s": "82826.15",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 445326849,
+      "hash": "0xcde86018c0a154ed2c1f041a8b26010201a6000f2e8073ac56d55c8db028994a",
+      "error": null
+    },
+    {
+      "time": 1735896415764,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56204339843
+          }
+        ]
+      },
+      "block": 445326330,
+      "hash": "0x070d8714ed424c5920b2041a8b23fa010e000ca078c01cc63904b926971944fa",
+      "error": null
+    },
+    {
+      "time": 1735896414396,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56204317142
+          }
+        ]
+      },
+      "block": 445326307,
+      "hash": "0x493275a0ff6ce248ccce041a8b23e3014f006a102635a6b69da69a3eb211d5d8",
+      "error": null
+    },
+    {
+      "time": 1735894181782,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "22.3",
+            "s": "39417.22",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 445291192,
+      "hash": "0x26e82dda3114aa0af2c2041a8a9ab8017700dff213d23d178d541509c4d2fdd2",
+      "error": null
+    },
+    {
+      "time": 1735894134126,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56304282140
+          }
+        ]
+      },
+      "block": 445290443,
+      "hash": "0x8281a0828434fe98bdfa041a8a97cb012800d7de63f122ffe452477b7a181f99",
+      "error": null
+    },
+    {
+      "time": 1735892477462,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "22.3",
+            "s": "37134.85",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 445264366,
+      "hash": "0x1637bf0672c31cb30dfe041a8a31ee01d400feffdfdba042b7a26a92d5e72f5b",
+      "error": null
+    },
+    {
+      "time": 1735892440274,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56430309418
+          }
+        ]
+      },
+      "block": 445263780,
+      "hash": "0xe9212ada5e494de4c919041a8a2fa40112007602169a8460d45382fb1ba4a1ed",
+      "error": null
+    },
+    {
+      "time": 1734938096504,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "26.5",
+            "s": "20335.77",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 433631249,
+      "hash": "0x133c471312883e8d23cd0419d8b01102012f005d408f7cd42148f120da23013a",
+      "error": null
+    },
+    {
+      "time": 1734938015257,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "26.5",
+            "s": "18727.65",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 433630352,
+      "hash": "0x3d20c5467b80d968cedb0419d8ac9001a2001f76ed9f4cd5de05891b6aeacf0f",
+      "error": null
+    },
+    {
+      "time": 1734937971735,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56430425311
+          }
+        ]
+      },
+      "block": 433629871,
+      "hash": "0x0d4ca26f5fbdd8a675110419d8aaaf01120003a335027f47927ca046735ac96c",
+      "error": null
+    },
+    {
+      "time": 1734937966035,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xd0a57e5dd613fafb8f074bea321a9a4f381ef594",
+        "agentName": null,
+        "nonce": 1734937957902
+      },
+      "block": 433629808,
+      "hash": "0xaba7921c9a19350868f40419d8aa700177006206d086b904d72c4bd0c2f7aec3",
+      "error": null
+    },
+    {
+      "time": 1734565494892,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15.55",
+            "s": "66490.18",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 429029295,
+      "hash": "0x398fea8bbcee9bd4264c04199277af01ee0002eaaff7ecc828c771e9ddd8b698",
+      "error": null
+    },
+    {
+      "time": 1734565456523,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.55",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 429028683,
+      "hash": "0x57c3f3f17375c6a65484041992754b0201320039d4abac46c230894e5a975512",
+      "error": null
+    },
+    {
+      "time": 1734565426815,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56204378947
+          }
+        ]
+      },
+      "block": 429028226,
+      "hash": "0x4a7bdd803efe8e42b36e0419927382018200d0975326130e1d5073b26cc0e586",
+      "error": null
+    },
+    {
+      "time": 1734565423763,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56204414183
+          }
+        ]
+      },
+      "block": 429028175,
+      "hash": "0x2beaf6d9e673428a5261041992734f01720009821be5a2a110881b3647d85fbb",
+      "error": null
+    },
+    {
+      "time": 1734538715098,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "17.55",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428611975,
+      "hash": "0x6ad065a114778f879f5004198c198701c10048edbaf84d89856615bf3ad3d0e6",
+      "error": null
+    },
+    {
+      "time": 1734538701161,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56223856491
+          }
+        ]
+      },
+      "block": 428611759,
+      "hash": "0xe8ac6087f0b3df9aef9f04198c18af011000ce08e81374c2feb7a88e98da80b0",
+      "error": null
+    },
+    {
+      "time": 1734511334851,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "22.55",
+            "s": "38913.53",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428185899,
+      "hash": "0xbdbe1d8aad3f10f3fc87041985992b015400971a3610352bafba5c15c3e3b525",
+      "error": null
+    },
+    {
+      "time": 1734511317114,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56204284025
+          }
+        ]
+      },
+      "block": 428185631,
+      "hash": "0x9517bb0b27e6c94f0337041985981f016c0075c3757daff0f919c6dd6a24a9e3",
+      "error": null
+    },
+    {
+      "time": 1734503898448,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "21.55",
+            "s": "38697.09",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428069892,
+      "hash": "0x94cddab34e548c46e160041983d404020150004bf7eafce65b7697989c1cd6af",
+      "error": null
+    },
+    {
+      "time": 1734503888776,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "20.55",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428069738,
+      "hash": "0xb76103476ee74d46b0b4041983d36a01d4004a31ededc38b371167897cc6d973",
+      "error": null
+    },
+    {
+      "time": 1734503877378,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "19.55",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428069566,
+      "hash": "0xfbfff0bc0238a3c7dbd7041983d2be02013d00e7a59c9f9b460ffe1d68c1a20d",
+      "error": null
+    },
+    {
+      "time": 1734503869567,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "18.55",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428069445,
+      "hash": "0xac59a1bf49730d7796cb041983d24501fd00933d21dbe28c1319c8b2b477b4e7",
+      "error": null
+    },
+    {
+      "time": 1734503860635,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "17.55",
+            "s": "50000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 428069305,
+      "hash": "0xfdc8524ec4dbaeccdcc5041983d1b90201a10047cbec6ef807deb2696ba531a1",
+      "error": null
+    },
+    {
+      "time": 1734502263497,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55765677807
+          }
+        ]
+      },
+      "block": 428044413,
+      "hash": "0xe5f8e5eb3ca1a16c7dac041983707d01180017a66fe0fa06bb4bc678f09764d7",
+      "error": null
+    },
+    {
+      "time": 1734502262089,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56126602781
+          }
+        ]
+      },
+      "block": 428044390,
+      "hash": "0x403a653fff67518b98b70419837066011e0096254b8513b92c037b7e406cbdd6",
+      "error": null
+    },
+    {
+      "time": 1734502261450,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56126602781
+          }
+        ]
+      },
+      "block": 428044380,
+      "hash": "0xac9bef51243bfc26f456041983705c018d006b67d5afd3487a46e70fcde992bf",
+      "error": null
+    },
+    {
+      "time": 1734502259718,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55765777328
+          }
+        ]
+      },
+      "block": 428044363,
+      "hash": "0xb3acc05b5d6aadad3666041983704b011e00463e93dc04858278ec710d491478",
+      "error": null
+    },
+    {
+      "time": 1734502258706,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 56126661663
+          }
+        ]
+      },
+      "block": 428044347,
+      "hash": "0xca8d172ec94712f35dbb041983703b0148007afdf79d80baa3d51af470deea8e",
+      "error": null
+    },
+    {
+      "time": 1734502258104,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55765740767
+          }
+        ]
+      },
+      "block": 428044338,
+      "hash": "0x61b25a01f2046855dbac04198370320119007e540a0ebeb1e1296e7ea538765e",
+      "error": null
+    },
+    {
+      "time": 1734502257768,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55765740767
+          }
+        ]
+      },
+      "block": 428044333,
+      "hash": "0x22d57b837b719dfb406c041983702d01610008ca5d876a88133ba122defd9753",
+      "error": null
+    },
+    {
+      "time": 1734479402470,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "20.7",
+            "s": "47544.56",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 427687805,
+      "hash": "0x961c4f6d028a19b08b2404197dff7d0201d5001d96e4b064fe4afe5817fabebd",
+      "error": null
+    },
+    {
+      "time": 1734479373127,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "21.2",
+            "s": "40000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 427687349,
+      "hash": "0x5cfc2822ba06010ff16e04197dfdb501b00082a4ee0b8e8ed97ec892aa29b73d",
+      "error": null
+    },
+    {
+      "time": 1734477442616,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "25.5",
+            "s": "21000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 427657302,
+      "hash": "0x10cd94e0c29f9b13163604197d885602019e00d1d7ff72d102b288db48d043ff",
+      "error": null
+    },
+    {
+      "time": 1734477370038,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "25.5",
+            "s": "20000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 427656171,
+      "hash": "0xae9b79d3b4efcc46a84e04197d83eb02014700b1da5722d29ddf2ed497a0075d",
+      "error": null
+    },
+    {
+      "time": 1734356956976,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55744924158
+          }
+        ]
+      },
+      "block": 425779126,
+      "hash": "0xaae43fea8414eb99b90f041960dfb60103004ecc5236cc218e22eb70db88d420",
+      "error": null
+    },
+    {
+      "time": 1734353973495,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "26",
+            "s": "20000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425732912,
+      "hash": "0x28e7670d28f3187840d30419602b300175004e38918051a57aff2c69a445f7d3",
+      "error": null
+    },
+    {
+      "time": 1734350778252,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55744951625
+          }
+        ]
+      },
+      "block": 425684048,
+      "hash": "0xc1a10028d4e643af200304195f6c50019d00cb1d20696d4479f5eea413bda2e7",
+      "error": null
+    },
+    {
+      "time": 1734347138468,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "21.83",
+            "s": "45000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425627357,
+      "hash": "0x282759ada26cc92b76a904195e8edd01f800ab08169ea34bed126d0879c51cf6",
+      "error": null
+    },
+    {
+      "time": 1734347123486,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "22.43",
+            "s": "45000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425627121,
+      "hash": "0xf193dde7957bc587c34a04195e8df102022800f9e55558f321162bf5ed0c2285",
+      "error": null
+    },
+    {
+      "time": 1734347106311,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "23.43",
+            "s": "35000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425626850,
+      "hash": "0x3df604a43a6a62ed514104195e8ce2020122006614c8170ef5cff33b5f6293b7",
+      "error": null
+    },
+    {
+      "time": 1734340712419,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "27",
+            "s": "25000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425526991,
+      "hash": "0x5b68722d997a2162c91304195d06cf02014a005a5906f33fcb06a828194ef5c9",
+      "error": null
+    },
+    {
+      "time": 1734340656555,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "27",
+            "s": "25000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425526117,
+      "hash": "0xf7bbd3706f9a704bba9e04195d03650201da005dc4f3785a4b5221240629d09e",
+      "error": null
+    },
+    {
+      "time": 1734340639157,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 55747107487
+          }
+        ]
+      },
+      "block": 425525842,
+      "hash": "0x850f6f501840680e726104195d0252015a0063d376c84937690113d4e3d7b5ea",
+      "error": null
+    },
+    {
+      "time": 1734340504033,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "26.5",
+            "s": "25000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425523721,
+      "hash": "0x1e6629933858295407b304195cfa0901d400fda7e5efa30d2f009da9d42e194f",
+      "error": null
+    },
+    {
+      "time": 1734339887570,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "24.22",
+            "s": "35000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425514091,
+      "hash": "0x737223378b3d8411f21004195cd46b019000bf3494d376e794da3f8e4fda7924",
+      "error": null
+    },
+    {
+      "time": 1734339874055,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "24.62",
+            "s": "35000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425513886,
+      "hash": "0xabfe273b090a0d7ed8e604195cd39e02019300e929fa36cc02dc5f43c8549c45",
+      "error": null
+    },
+    {
+      "time": 1734339862103,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "25.22",
+            "s": "35000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425513699,
+      "hash": "0x28d122513802ebe8ce5a04195cd2e3018400f4e9dc3ac1ebd8e9bf174ebba451",
+      "error": null
+    },
+    {
+      "time": 1734338702362,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "27.05",
+            "s": "55000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 425495609,
+      "hash": "0x61e4bc502bf25be9473404195c8c390201310087cf26d72158d22f027d5db63b",
+      "error": null
+    },
+    {
+      "time": 1734329596636,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "9892107.56",
+        "toPerp": false,
+        "nonce": 1734329589776
+      },
+      "block": 425353626,
+      "hash": "0x2c7f789663db34f5800604195a619a0154002c009be3af565c2130e397aeef89",
+      "error": null
+    },
+    {
+      "time": 1734329194577,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 9892107560000,
+        "ethId": {
+          "block_number": 285264870,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xe363a4bf80fd1cd138fbf471475ee1f7e44a144e6f987bcdb9e6fc45202d4f0a"
+        }
+      },
+      "block": 425347322,
+      "hash": "0xe62793b38eb88b39947804195a48fa0101001e40170db0d667d4a477f938d9a8",
+      "error": null
+    },
+    {
+      "time": 1733947631283,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.2",
+            "s": "17238.12",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419332186,
+      "hash": "0xa333f81477bb573b94130418fe805a0201030024d2fef66606463b49117765f0",
+      "error": null
+    },
+    {
+      "time": 1733947592293,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 54747910301
+          }
+        ]
+      },
+      "block": 419331572,
+      "hash": "0xe4f14b9cd7e4ccf7097d0418fe7df40112000a479de7b0c40bffed2e6e28e3d0",
+      "error": null
+    },
+    {
+      "time": 1733947373770,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15.74",
+            "s": "17741.9",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419328142,
+      "hash": "0x07dcb793b6c370211dd50418fe708e02012c00337e3ded73304b9b8a6708b74d",
+      "error": null
+    },
+    {
+      "time": 1733947342727,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.74",
+            "s": "17075.64",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419327655,
+      "hash": "0xdfdb4b15ae635a5fd5380418fe6ea702011100664e29e2dadacc62aed6a721d9",
+      "error": null
+    },
+    {
+      "time": 1733946647765,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.5",
+            "s": "55289.14",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419316729,
+      "hash": "0x4411809b77e1219c1ec60418fe43f90194005f44ccfc4a7953375230298dd9f2",
+      "error": null
+    },
+    {
+      "time": 1733946299965,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.261",
+            "s": "30158.84",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419311284,
+      "hash": "0xb2465d544cb48d8b4a9a0418fe2eb401a30066544f69bd96513b8867f02f6453",
+      "error": null
+    },
+    {
+      "time": 1733944502965,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "965767.54",
+        "toPerp": false,
+        "nonce": 1733944487185
+      },
+      "block": 419283087,
+      "hash": "0x2fe470973fa02267d37a0418fdc08f01f8001e7acc7eb0e0c5a05b560d7e805b",
+      "error": null
+    },
+    {
+      "time": 1733944438016,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 965767540000,
+        "ethId": {
+          "block_number": 283749185,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x342cb8432e146e2ed1a044b9996cbef2ac6a93da9a29a7fd7c7ff5c6691b0100"
+        }
+      },
+      "block": 419282072,
+      "hash": "0xd81c4c63b1e0f25b3b6f0418fdbc98010c00ac79e72ba6f1c30c7cfee5f45747",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733944438016,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 965767540000,
+        "ethId": {
+          "block_number": 283749185,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x342cb8432e146e2ed1a044b9996cbef2ac6a93da9a29a7fd7c7ff5c6691b0100"
+        }
+      },
+      "block": 419282072,
+      "hash": "0x56a296e0942fbbeb09220418fdbc98010500035444b8666b2503318ca4de36df",
+      "error": null
+    },
+    {
+      "time": 1733944438016,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 965767540000,
+        "ethId": {
+          "block_number": 283749185,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x342cb8432e146e2ed1a044b9996cbef2ac6a93da9a29a7fd7c7ff5c6691b0100"
+        }
+      },
+      "block": 419282072,
+      "hash": "0x5ba5ad0d6057da29dc4b0418fdbc980104006c94f62ca599d46e49105aed3705",
+      "error": null
+    },
+    {
+      "time": 1733944437687,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 965767540000,
+        "ethId": {
+          "block_number": 283749185,
+          "tx_index": 7,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x342cb8432e146e2ed1a044b9996cbef2ac6a93da9a29a7fd7c7ff5c6691b0100"
+        }
+      },
+      "block": 419282066,
+      "hash": "0x43d1bc9f364dd04290630418fdbc920000601d14d2fab61cafc0959bdc9ab21d",
+      "error": null
+    },
+    {
+      "time": 1733942837918,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991928.13",
+        "toPerp": false,
+        "nonce": 1733942829425
+      },
+      "block": 419256871,
+      "hash": "0xcf7cdd1703d2daed49870418fd5a2702011900ceb3dc3f77d344bda30fa9d8f4",
+      "error": null
+    },
+    {
+      "time": 1733942825399,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991928130000,
+        "ethId": {
+          "block_number": 283743156,
+          "tx_index": 3,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x607c9dfa04a191908e4b6cbcd18439b81038cbc230e36ea001c39d45e7f9e39d"
+        }
+      },
+      "block": 419256676,
+      "hash": "0xc8a8ad8ef0228de57a240418fd59640102008a9d08885811ffefccd9084992f8",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733942825399,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991928130000,
+        "ethId": {
+          "block_number": 283743156,
+          "tx_index": 3,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x607c9dfa04a191908e4b6cbcd18439b81038cbc230e36ea001c39d45e7f9e39d"
+        }
+      },
+      "block": 419256676,
+      "hash": "0x50aabd0dd7a372d2cbcc0418fd5964010100966807adac20ab3620065f201d3c",
+      "error": null
+    },
+    {
+      "time": 1733942825399,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991928130000,
+        "ethId": {
+          "block_number": 283743156,
+          "tx_index": 3,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x607c9dfa04a191908e4b6cbcd18439b81038cbc230e36ea001c39d45e7f9e39d"
+        }
+      },
+      "block": 419256676,
+      "hash": "0x98e05a9829b83ca271f90418fd59640000d7e8fa16f306f574b6f95ae89a962b",
+      "error": null
+    },
+    {
+      "time": 1733942825167,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991928130000,
+        "ethId": {
+          "block_number": 283743156,
+          "tx_index": 3,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x607c9dfa04a191908e4b6cbcd18439b81038cbc230e36ea001c39d45e7f9e39d"
+        }
+      },
+      "block": 419256671,
+      "hash": "0x9eea05b8419091e772940418fd595f01c0006f8f09d0422086b2c6175aacd479",
+      "error": null
+    },
+    {
+      "time": 1733942367701,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.12",
+            "s": "61845.62",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419249471,
+      "hash": "0x933d40c95b0b10be1d3d0418fd3d3f017600cc3dae3c451684df8539c4b1a617",
+      "error": null
+    },
+    {
+      "time": 1733942346422,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991909.41",
+        "toPerp": false,
+        "nonce": 1733942341041
+      },
+      "block": 419249136,
+      "hash": "0x5bbf21ab6d2d9a3998b40418fd3bf001a3002873c08fb4623bb2d6734be020e8",
+      "error": null
+    },
+    {
+      "time": 1733942336593,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991909410000,
+        "ethId": {
+          "block_number": 283741308,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x120107f0b85ab958dd8f3558a1ab1b05a1fc17cf3588a21aafe7bc76a03e8da3"
+        }
+      },
+      "block": 419248988,
+      "hash": "0x73b456df56a7ea556f290418fd3b5c00005ee17b53ad7a818e3543a59204b9ca",
+      "error": null
+    },
+    {
+      "time": 1733942336593,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991909410000,
+        "ethId": {
+          "block_number": 283741308,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x120107f0b85ab958dd8f3558a1ab1b05a1fc17cf3588a21aafe7bc76a03e8da3"
+        }
+      },
+      "block": 419248988,
+      "hash": "0x9c09c5f5bf88ae7e4e3e0418fd3b5c01010059aa931e6d5d8692f01d21f8e2ed",
+      "error": null
+    },
+    {
+      "time": 1733942336593,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991909410000,
+        "ethId": {
+          "block_number": 283741308,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x120107f0b85ab958dd8f3558a1ab1b05a1fc17cf3588a21aafe7bc76a03e8da3"
+        }
+      },
+      "block": 419248988,
+      "hash": "0xe7f96f7d2ffe6b4274b30418fd3b5c0102008f3d5f730cc8e70558ad728b60d6",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733942336222,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991909410000,
+        "ethId": {
+          "block_number": 283741308,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x120107f0b85ab958dd8f3558a1ab1b05a1fc17cf3588a21aafe7bc76a03e8da3"
+        }
+      },
+      "block": 419248982,
+      "hash": "0x96e4c63cc26520f9c68f0418fd3b560000e0a22416e47e5759f3dcf40c2d60b1",
+      "error": null
+    },
+    {
+      "time": 1733941616824,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15.9",
+            "s": "62388.49",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419237644,
+      "hash": "0xb2e1201ef2d1923e2d3b0418fd0f0c0201780022b0623571c5f51c326c2c5cc5",
+      "error": null
+    },
+    {
+      "time": 1733941586252,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991964.34",
+        "toPerp": false,
+        "nonce": 1733941579908
+      },
+      "block": 419237165,
+      "hash": "0xee60c69f45756c24f2170418fd0d2d02036500024895004f6b380a0f52ef6221",
+      "error": null
+    },
+    {
+      "time": 1733941577620,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991964340000,
+        "ethId": {
+          "block_number": 283738396,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xd0c88fc9adb35660e5afc4cf8e91bc914315917a307e1998442bf62a2976745a"
+        }
+      },
+      "block": 419237028,
+      "hash": "0xff711edd58e9f0aa73a00418fd0ca401020002978eaa972bc5edfca14269416a",
+      "error": null
+    },
+    {
+      "time": 1733941577620,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991964340000,
+        "ethId": {
+          "block_number": 283738396,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xd0c88fc9adb35660e5afc4cf8e91bc914315917a307e1998442bf62a2976745a"
+        }
+      },
+      "block": 419237028,
+      "hash": "0xd135d58b50909cc509f30418fd0ca40105006e2517dfe30c6aed363e35f0b5d5",
+      "error": null
+    },
+    {
+      "time": 1733941577620,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991964340000,
+        "ethId": {
+          "block_number": 283738396,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xd0c88fc9adb35660e5afc4cf8e91bc914315917a307e1998442bf62a2976745a"
+        }
+      },
+      "block": 419237028,
+      "hash": "0x0a9266526e2a417f89bd0418fd0ca4010800006b7dcdd5202d9b3919822864a0",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733941577418,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991964340000,
+        "ethId": {
+          "block_number": 283738396,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xd0c88fc9adb35660e5afc4cf8e91bc914315917a307e1998442bf62a2976745a"
+        }
+      },
+      "block": 419237024,
+      "hash": "0x873a4b4d4d37a8a3f1dd0418fd0ca00000bbf6c9dd71e6b82bdb6924e0520d98",
+      "error": null
+    },
+    {
+      "time": 1733941114797,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15.503",
+            "s": "33788.05",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419229734,
+      "hash": "0x9c9d9a4e94877294f15e0418fcf02602012200ca3ccb9e73afdecaa20d6b8cdc",
+      "error": null
+    },
+    {
+      "time": 1733941099334,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 54684299938
+          }
+        ]
+      },
+      "block": 419229490,
+      "hash": "0x4a7bdc2fae6e444252760418fcef32011f0033871c806fb3cdc39d58f06c9502",
+      "error": null
+    },
+    {
+      "time": 1733940056908,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15.5",
+            "s": "64241.9",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419213064,
+      "hash": "0x254db7c36a9038007b170418fcaf0801d900d1dba778b85cf41946f802fb1ab7",
+      "error": null
+    },
+    {
+      "time": 1733940017452,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991969.72",
+        "toPerp": false,
+        "nonce": 1733940011006
+      },
+      "block": 419212429,
+      "hash": "0x9f38e60f0a661a839c320418fcac8d020190008bc8efdbda5aa75bd4da74a366",
+      "error": null
+    },
+    {
+      "time": 1733940009232,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991969720000,
+        "ethId": {
+          "block_number": 283732438,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x72186fc653e50d72352e21e9bf0dda50c1e97b9d3a2bdc42acca7b39327bb6b3"
+        }
+      },
+      "block": 419212301,
+      "hash": "0x75ff3ce7a5ead8cd25ee0418fcac0d0103005299261dad5854a85b0cd5465156",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733940009232,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991969720000,
+        "ethId": {
+          "block_number": 283732438,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x72186fc653e50d72352e21e9bf0dda50c1e97b9d3a2bdc42acca7b39327bb6b3"
+        }
+      },
+      "block": 419212301,
+      "hash": "0x64b6584a854d8c7e6a410418fcac0d01020025a2631bd72d640c9f3073637b21",
+      "error": null
+    },
+    {
+      "time": 1733940009232,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991969720000,
+        "ethId": {
+          "block_number": 283732438,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x72186fc653e50d72352e21e9bf0dda50c1e97b9d3a2bdc42acca7b39327bb6b3"
+        }
+      },
+      "block": 419212301,
+      "hash": "0x56aa1371ff3388a0d1750418fcac0d010100d4f771dc26be3d1946d4c52670fe",
+      "error": null
+    },
+    {
+      "time": 1733940009232,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991969720000,
+        "ethId": {
+          "block_number": 283732438,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x72186fc653e50d72352e21e9bf0dda50c1e97b9d3a2bdc42acca7b39327bb6b3"
+        }
+      },
+      "block": 419212301,
+      "hash": "0xe3d7294b52f940504e640418fcac0d0000ab165f968b981bad0d042338ca5385",
+      "error": null
+    },
+    {
+      "time": 1733931839380,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15.77",
+            "s": "62880.56",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419083840,
+      "hash": "0xc2938f4795253d9c49560418fab64002010500afb2f8a8dd4c62a0d1f491d9be",
+      "error": null
+    },
+    {
+      "time": 1733931817927,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991456.56",
+        "toPerp": false,
+        "nonce": 1733931811534
+      },
+      "block": 419083503,
+      "hash": "0x1ced4e132d0442d1f26b0418fab4ef01de00c4c1d5542a196768ff8b0b8e235f",
+      "error": null
+    },
+    {
+      "time": 1733931663172,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991456560000,
+        "ethId": {
+          "block_number": 283700387,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x8f69a949ceb675f36b54a02c424b01d68140a5fe0b977b3253fa30262ad1e5c3"
+        }
+      },
+      "block": 419081054,
+      "hash": "0x48acc64335069b1dbf4c0418faab5e00009f7772ca9966f56015888ec4bf188c",
+      "error": null
+    },
+    {
+      "time": 1733931663172,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991456560000,
+        "ethId": {
+          "block_number": 283700387,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x8f69a949ceb675f36b54a02c424b01d68140a5fe0b977b3253fa30262ad1e5c3"
+        }
+      },
+      "block": 419081054,
+      "hash": "0xe70fc916a33cd8c9c5980418faab5e0102003f369bc295cee3a0874e26f6bf2d",
+      "error": null
+    },
+    {
+      "time": 1733931663172,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991456560000,
+        "ethId": {
+          "block_number": 283700387,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x8f69a949ceb675f36b54a02c424b01d68140a5fe0b977b3253fa30262ad1e5c3"
+        }
+      },
+      "block": 419081054,
+      "hash": "0xd4b8f583bf0ee5478d0f0418faab5e0104004d8d2dc273c6cf09973bab27cc0d",
+      "error": null
+    },
+    {
+      "time": 1733931663172,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991456560000,
+        "ethId": {
+          "block_number": 283700387,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x8f69a949ceb675f36b54a02c424b01d68140a5fe0b977b3253fa30262ad1e5c3"
+        }
+      },
+      "block": 419081054,
+      "hash": "0xef45463f313fe4bc70580418faab5e010600afd80664f6ed91858c20cd883ef0",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733929217677,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15",
+            "s": "66102.98",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 419042628,
+      "hash": "0xc0c70fb517232a2491980418fa154402011300112b4ed99ef97e09d82e91f7d6",
+      "error": null
+    },
+    {
+      "time": 1733929180168,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991535.76",
+        "toPerp": false,
+        "nonce": 1733929173411
+      },
+      "block": 419042055,
+      "hash": "0x0ae4a540ffcba408c46c0418fa130701b4005fbaa1b2751c96759161534666f4",
+      "error": null
+    },
+    {
+      "time": 1733929169787,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991535760000,
+        "ethId": {
+          "block_number": 283690561,
+          "tx_index": 6,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xbf430fe0d237bc9e2e7c33921a6a67cfabf399720b743ab1633c531163b7d226"
+        }
+      },
+      "block": 419041896,
+      "hash": "0x3c15bad4c84e9ca4177e0418fa1268020306007f22368d5fa2c40a6188fb41b9",
+      "error": null
+    },
+    {
+      "time": 1733929169787,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991535760000,
+        "ethId": {
+          "block_number": 283690561,
+          "tx_index": 6,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xbf430fe0d237bc9e2e7c33921a6a67cfabf399720b743ab1633c531163b7d226"
+        }
+      },
+      "block": 419041896,
+      "hash": "0xfb2ba47d355221f2236d0418fa126802030c00338e3a9aab5855cf345d325316",
+      "error": null
+    },
+    {
+      "time": 1733929169787,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991535760000,
+        "ethId": {
+          "block_number": 283690561,
+          "tx_index": 6,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xbf430fe0d237bc9e2e7c33921a6a67cfabf399720b743ab1633c531163b7d226"
+        }
+      },
+      "block": 419041896,
+      "hash": "0x9ddb9b7f49568394ca3f0418fa1268020312009ed60f81f02e36548e236c51d6",
+      "error": null
+    },
+    {
+      "time": 1733601327146,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "5570.6",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413875502,
+      "hash": "0x10aafdf8c1413b2322ea0418ab3d2e01c400102e47061b7e71d6533b61724f5f",
+      "error": null
+    },
+    {
+      "time": 1733601302897,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 53515360221
+          }
+        ]
+      },
+      "block": 413875117,
+      "hash": "0xc91d28d0b3aff11695600418ab3bad01cc003f83473572414798638336022cc2",
+      "error": null
+    },
+    {
+      "time": 1733601276871,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.9",
+            "s": "6577.13",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413874712,
+      "hash": "0x74028e475dc8256512300418ab3a1801e400e2fa5b56e3a81310b92c2ae64809",
+      "error": null
+    },
+    {
+      "time": 1733601048346,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "10570.27",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413871102,
+      "hash": "0x676b5f59d9fc0499fe530418ab2bfe018c00a5df1ca940a01801baf265599e78",
+      "error": null
+    },
+    {
+      "time": 1733600910634,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "10570.27",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413868909,
+      "hash": "0x7ddc00a11a401d82c9340418ab236d020132009f1459302525c6775f6cc7a540",
+      "error": null
+    },
+    {
+      "time": 1733600894724,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "cancel",
+        "cancels": [
+          {
+            "a": 10107,
+            "o": 53514754331
+          }
+        ]
+      },
+      "block": 413868658,
+      "hash": "0xa9041a001b1e1405f52a0418ab2272015700681e5252950224212c3cc157cceb",
+      "error": null
+    },
+    {
+      "time": 1733600873176,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.7",
+            "s": "10570.27",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413868325,
+      "hash": "0xf313a3cdd7bd496ea6310418ab2125017a005e465b348f9063f9e0523f54ef30",
+      "error": null
+    },
+    {
+      "time": 1733600504147,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.9",
+            "s": "17712.14",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413862486,
+      "hash": "0x67dcd301f3dee06b54950418ab0a5601de00db06e9cfd417771e686a9bde3b1e",
+      "error": null
+    },
+    {
+      "time": 1733600423842,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "25256.08",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413861217,
+      "hash": "0xda30222f308441b48faf0418ab056101820089922aab382c66a8c9cadaa9b36a",
+      "error": null
+    },
+    {
+      "time": 1733600376277,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "52116.23",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413860465,
+      "hash": "0xed5ccb994b9819e45e840418ab02710201040078a99b88e427e989831e1ecde0",
+      "error": null
+    },
+    {
+      "time": 1733600257379,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "1836451.43",
+        "toPerp": false,
+        "nonce": 1733600251514
+      },
+      "block": 413858581,
+      "hash": "0x5971e202c4d01e09836a0418aafb1501e7008203db55cf37cdb7101b3f4c5305",
+      "error": null
+    },
+    {
+      "time": 1733600242513,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1836451430000,
+        "ethId": {
+          "block_number": 282386707,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xeb0254001095b4bfba8aab350a215c215b7d0f5248a6168558ec6e4241b818f3"
+        }
+      },
+      "block": 413858343,
+      "hash": "0x1609bbf4567c7154777c0418aafa270000e2535db9819039da4582585efdf57d",
+      "error": null
+    },
+    {
+      "time": 1733600242513,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1836451430000,
+        "ethId": {
+          "block_number": 282386707,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xeb0254001095b4bfba8aab350a215c215b7d0f5248a6168558ec6e4241b818f3"
+        }
+      },
+      "block": 413858343,
+      "hash": "0x766ea1e616effdfedc2d0418aafa2701030007df98b46d2397f1f33440231be7",
+      "error": null
+    },
+    {
+      "time": 1733600242513,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1836451430000,
+        "ethId": {
+          "block_number": 282386707,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xeb0254001095b4bfba8aab350a215c215b7d0f5248a6168558ec6e4241b818f3"
+        }
+      },
+      "block": 413858343,
+      "hash": "0x67455f31014dd7bf3d560418aafa270105002e4a5526b0b4b0400518038e8908",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733600242157,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1836451430000,
+        "ethId": {
+          "block_number": 282386707,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0xeb0254001095b4bfba8aab350a215c215b7d0f5248a6168558ec6e4241b818f3"
+        }
+      },
+      "block": 413858336,
+      "hash": "0x9e58cc50f722b0c0234b0418aafa2000000882560cc4bd3cb90e12deaad29702",
+      "error": null
+    },
+    {
+      "time": 1733597732951,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "457.33",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413818674,
+      "hash": "0x1c980d3bca4e7b162a240418aa5f320201150007863a74216bca0842dfef231c",
+      "error": null
+    },
+    {
+      "time": 1733597718435,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.8",
+            "s": "66976.33",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413818440,
+      "hash": "0x8a672e348c7fdd2870bb0418aa5e4802013600d795ac0c97bccfb41b3b1298fc",
+      "error": null
+    },
+    {
+      "time": 1733597683413,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991249.6",
+        "toPerp": false,
+        "nonce": 1733597676353
+      },
+      "block": 413817891,
+      "hash": "0xa049dd7ca5d3042484ed0418aa5c23015200c572707e6aced96e9b4beb38a68f",
+      "error": null
+    },
+    {
+      "time": 1733597671020,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282376461,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x83c99ce50b9117dc76c5952731d2bb6d75bbcf9d90aa488241011fbcd996b0c8"
+        }
+      },
+      "block": 413817693,
+      "hash": "0x8dc2bd850b31a709ab480418aa5b5d010100595a65c83ed3a83f1457016454fa",
+      "error": null
+    },
+    {
+      "time": 1733597670719,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282376461,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x83c99ce50b9117dc76c5952731d2bb6d75bbcf9d90aa488241011fbcd996b0c8"
+        }
+      },
+      "block": 413817686,
+      "hash": "0x7b59216d80ab1d8dabe40418aa5b56010100055d083cd043891dfe8ef157e77a",
+      "error": null
+    },
+    {
+      "time": 1733596365624,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.5",
+            "s": "593.04",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413797018,
+      "hash": "0x240640535731b83a874a0418aa0a9a02018600035d313fc8bd8a1ef7d5b598cc",
+      "error": null
+    },
+    {
+      "time": 1733594413844,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.5",
+            "s": "68532.07",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413766134,
+      "hash": "0x4ca044e1557923147dfb0418a991f601b60025b7f1be290157b28e0ec1dd0d89",
+      "error": null
+    },
+    {
+      "time": 1733594353465,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991249.9",
+        "toPerp": false,
+        "nonce": 1733594346148
+      },
+      "block": 413765196,
+      "hash": "0xe1adcd846d3222a8acee0418a98e4c0189009d8853a7831df39ca89e7d272eb5",
+      "error": null
+    },
+    {
+      "time": 1733594326980,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249900000,
+        "ethId": {
+          "block_number": 282363108,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0640ac557ad2d310d3a826a43ddde8409eda049c8628d95d78cfdc80e90df316"
+        }
+      },
+      "block": 413764778,
+      "hash": "0xea81ab607f98b23cb3d50418a98caa0106006d3310c0cc5d5a441318205f420f",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733594326980,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249900000,
+        "ethId": {
+          "block_number": 282363108,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0640ac557ad2d310d3a826a43ddde8409eda049c8628d95d78cfdc80e90df316"
+        }
+      },
+      "block": 413764778,
+      "hash": "0xfb184a8107bd7748f25f0418a98caa010400337d53ebe64f4e453a1766a57fe9",
+      "error": null
+    },
+    {
+      "time": 1733594326980,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249900000,
+        "ethId": {
+          "block_number": 282363108,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0640ac557ad2d310d3a826a43ddde8409eda049c8628d95d78cfdc80e90df316"
+        }
+      },
+      "block": 413764778,
+      "hash": "0xfe2ed8bfcf0a7a6630990418a98caa010200ab16ea41776afa50d6b37f70bf0a",
+      "error": null
+    },
+    {
+      "time": 1733594326980,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249900000,
+        "ethId": {
+          "block_number": 282363108,
+          "tx_index": 2,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0640ac557ad2d310d3a826a43ddde8409eda049c8628d95d78cfdc80e90df316"
+        }
+      },
+      "block": 413764778,
+      "hash": "0xc329093339b9a74070200418a98caa0000873179455dbaad8acc6e2e49c9bfd1",
+      "error": null
+    },
+    {
+      "time": 1733589782248,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "14.5",
+            "s": "68459.84",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413692813,
+      "hash": "0x1fb17deb412086f02f8c0418a8738d020344006353cd08bba91bc5dbd402a571",
+      "error": null
+    },
+    {
+      "time": 1733589760212,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991249.6",
+        "toPerp": false,
+        "nonce": 1733589747410
+      },
+      "block": 413692476,
+      "hash": "0x0bb0e95675df09f7829f0418a8723c01e4001bf8311504a18a19e2a4892dc263",
+      "error": null
+    },
+    {
+      "time": 1733589744960,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282344818,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0a67ff544062d0711cb0ae7ab0c27b5194a5f446ef8e487951e0fa63e3875b26"
+        }
+      },
+      "block": 413692232,
+      "hash": "0xc0b5af7a5475b51e4d620418a8714801010048b9a1f1e330c81331918317e7fd",
+      "error": null
+    },
+    {
+      "time": 1733589744960,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282344818,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0a67ff544062d0711cb0ae7ab0c27b5194a5f446ef8e487951e0fa63e3875b26"
+        }
+      },
+      "block": 413692232,
+      "hash": "0x6d64eae71000821fe65a0418a87148010300c9b4c7d433011cf38249c99f0c0c",
+      "error": null
+    },
+    {
+      "time": 1733589744960,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282344818,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0a67ff544062d0711cb0ae7ab0c27b5194a5f446ef8e487951e0fa63e3875b26"
+        }
+      },
+      "block": 413692232,
+      "hash": "0xd82900fc3c4f20260eab0418a87148010500ed262d4d4d01df32d232a3a12397",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733589744620,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282344818,
+          "tx_index": 4,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x0a67ff544062d0711cb0ae7ab0c27b5194a5f446ef8e487951e0fa63e3875b26"
+        }
+      },
+      "block": 413692225,
+      "hash": "0x02607414ce541fa4c1bb0418a8714100003ba14d3b763a15da4b3dff974febf0",
+      "error": null
+    },
+    {
+      "time": 1733583724944,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15",
+            "s": "66734.88",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413596953,
+      "hash": "0xa6bd7d5855c03554efa30418a6fd1901c200eaf94fcb99c8e80d4ddcffc54e7e",
+      "error": null
+    },
+    {
+      "time": 1733583710334,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "991249.6",
+        "toPerp": false,
+        "nonce": 1733583699985
+      },
+      "block": 413596721,
+      "hash": "0x09086ac1eda84ff4ac8a0418a6fc31019700664498d455b35e1e9fa97cb1a384",
+      "error": null
+    },
+    {
+      "time": 1733583680176,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282320615,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x1010449d4870fc23141be2610887283529477dfc5b4ac22922e25081b1ad6312"
+        }
+      },
+      "block": 413596240,
+      "hash": "0x979c8d60d02a467a8dbe0418a6fa5000002fab9d5902e5bae526f48adfa1834d",
+      "error": null
+    },
+    {
+      "time": 1733583680176,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 991249600000,
+        "ethId": {
+          "block_number": 282320615,
+          "tx_index": 1,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x1010449d4870fc23141be2610887283529477dfc5b4ac22922e25081b1ad6312"
+        }
+      },
+      "block": 413596240,
+      "hash": "0xeeda687cb75d2e1b1ee10418a6fa5001020075c62d2ee4eb1dc72f875252c0ea",
+      "error": null
+    },
+    {
+      "time": 1733582338394,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "15",
+            "s": "66928.02",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "Gtc"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 413574999,
+      "hash": "0xa8f66e5a9e38dcc11f0c0418a6a757018b0053042c2529ad331efffa2bd6c2ec",
+      "error": null
+    },
+    {
+      "time": 1733582300835,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "1003920.34",
+        "toPerp": false,
+        "nonce": 1733582291731
+      },
+      "block": 413574404,
+      "hash": "0xf34f00558974ccc52b960418a6a50401b600f3feee876ddfbf000d8422031aae",
+      "error": null
+    },
+    {
+      "time": 1733582242087,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x5e06810c5fc080498832e08b5d739f7ce448d611",
+        "agentName": null,
+        "nonce": 1733571468935
+      },
+      "block": 413573476,
+      "hash": "0x7355224425c2f7d3ed930418a6a16401c6006e901f5670bdb812f7a0a6dbbecf",
+      "error": "Invalid nonce: duplicate nonce 1733571468935"
+    },
+    {
+      "time": 1733582241963,
+      "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x5e06810c5fc080498832e08b5d739f7ce448d611",
+        "agentName": null,
+        "nonce": 1733571468935
+      },
+      "block": 413573475,
+      "hash": "0x5eb7458c862c717e28b30418a6a16302012200af629134c9635b85bcd28e1d56",
+      "error": null
+    },
+    {
+      "time": 1733582241338,
+      "user": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1003920340000,
+        "ethId": {
+          "block_number": 282314867,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x3e0fdca16a02193e753251e8af210267c159ed39dc1b859cd834078c441654fc"
+        }
+      },
+      "block": 413573464,
+      "hash": "0x20f59f36c9918d4bdd0f0418a6a15801020031d00fede72685feeecac57cce30",
+      "error": "Deposit has already been credited."
+    },
+    {
+      "time": 1733582241338,
+      "user": "0xef2364db5db6f5539aa0bc111771a94ee47637fc",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1003920340000,
+        "ethId": {
+          "block_number": 282314867,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x3e0fdca16a02193e753251e8af210267c159ed39dc1b859cd834078c441654fc"
+        }
+      },
+      "block": 413573464,
+      "hash": "0x9402491b9a838c47fe460418a6a158010100eed7c5b22b24a4bdaa8c34a453fb",
+      "error": null
+    },
+    {
+      "time": 1733582241338,
+      "user": "0x263294039413b96d25e4173a5f7599f8b3801504",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1003920340000,
+        "ethId": {
+          "block_number": 282314867,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x3e0fdca16a02193e753251e8af210267c159ed39dc1b859cd834078c441654fc"
+        }
+      },
+      "block": 413573464,
+      "hash": "0xa621859d13e158ed2c690418a6a158000099f415e00013923789816cdf2e643e",
+      "error": null
+    },
+    {
+      "time": 1733582241084,
+      "user": "0xda6816df552c3f9e0fb64979fb357800d690d79b",
+      "action": {
+        "type": "VoteEthDepositAction",
+        "user": "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff",
+        "usd": 1003920340000,
+        "ethId": {
+          "block_number": 282314867,
+          "tx_index": 5,
+          "event_type": "Deposit",
+          "event_index": 0,
+          "tx_hash": "0x3e0fdca16a02193e753251e8af210267c159ed39dc1b859cd834078c441654fc"
+        }
+      },
+      "block": 413573459,
+      "hash": "0x05abce21f23d73108d3b0418a6a15300000cb07606052076c0048d112e39b1ed",
+      "error": null
+    }
+  ]
+}

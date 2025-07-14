@@ -1,0 +1,6411 @@
+{
+  "wallet": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+  "txs": [
+    {
+      "time": 1751552233199,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x2105",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x3e5b2598a32ebf003ad5a7254faa3d04ff41d9fe",
+        "wei": 6075494421200,
+        "isUndelegate": false,
+        "nonce": 1751552223869
+      },
+      "block": 650123152,
+      "hash": "0xd76bc0a16eca8f6ed3020426c01790013100a99cb75b148218a7640362991bbf",
+      "error": null
+    },
+    {
+      "time": 1751552209717,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x2105",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 6075494421200,
+        "isUndelegate": true,
+        "nonce": 1751552197919
+      },
+      "block": 650122855,
+      "hash": "0x51d2df4548e38102e37a0426c01667017f002f036f75da98782b65b273e08470",
+      "error": null
+    },
+    {
+      "time": 1751552183180,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x2105",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x18efb06e188c11ecadc1e573bf914364f162885d",
+        "agentName": null,
+        "nonce": 1751552062005
+      },
+      "block": 650122506,
+      "hash": "0x13fc7eae0c11c84106960426c0150a01d4004942d60bfea3aa83b841ca591b15",
+      "error": null
+    },
+    {
+      "time": 1751418879636,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "156011.161808",
+        "time": 1751418828297
+      },
+      "block": 648377908,
+      "hash": "0x84a69d03db682b8d55f90426a5763401cf00bc5c8c636831564df2b80161563b",
+      "error": null
+    },
+    {
+      "time": 1751360641633,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 38,
+            "b": true,
+            "p": "0.012139",
+            "s": "9360",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 647615554,
+      "hash": "0x16108422fb3a756afecd042699d4420201e2009f92c8f48b237444dc1d33fbe8",
+      "error": null
+    },
+    {
+      "time": 1751360593669,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 65,
+          "b": true,
+          "s": "1327",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647614893,
+      "hash": "0x8e541805e2a4d04b50b2042699d1ad0204e7004a7eaffba4c5a987f76ef57300",
+      "error": null
+    },
+    {
+      "time": 1751360570002,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": false,
+          "s": "35000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647614570,
+      "hash": "0x734f09d4331298f12f58042699d06a01c000c7c7453b9c6348c6a1375c4fdc2b",
+      "error": null
+    },
+    {
+      "time": 1751360502190,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 183,
+          "b": false,
+          "s": "2000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647613659,
+      "hash": "0x8bb5a9d5dcd1c57c5bbd042699ccdb020122000fc6a3cb3f803d9b1cfb38b32b",
+      "error": null
+    },
+    {
+      "time": 1751360478434,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 172,
+          "b": false,
+          "s": "30000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647613338,
+      "hash": "0x681be08c263cdb98306d042699cb9a020259003dac6838cb6f2b7b3ab24632ac",
+      "error": null
+    },
+    {
+      "time": 1751360446024,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 128,
+          "b": true,
+          "s": "25000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647612924,
+      "hash": "0xeab92fd88ed028abcdad042699c9fc0198000986ae10ac1a845796087fd16f6f",
+      "error": null
+    },
+    {
+      "time": 1751360424482,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": false,
+          "s": "130000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647612628,
+      "hash": "0x77f0dd866ea1d4c26e37042699c8d402025f004e01aec56539d02fee18ec2843",
+      "error": null
+    },
+    {
+      "time": 1751360398730,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 70,
+          "b": true,
+          "s": "3000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647612305,
+      "hash": "0x780fe0d86b2688ecc25e042699c79102013c00506bb3d6662cc2765f08e5b995",
+      "error": null
+    },
+    {
+      "time": 1751357831198,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": true,
+          "s": "420",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647578848,
+      "hash": "0xd2b7f2ceb30470d601a704269944e001f90095aac743fc97a16e69c5abb20579",
+      "error": null
+    },
+    {
+      "time": 1751357773491,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": true,
+          "s": "510000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647578084,
+      "hash": "0x8680d2ba35e081eb477904269941e402023f00a97c3d9d5989c733fc6471124b",
+      "error": null
+    },
+    {
+      "time": 1751357710900,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 74,
+          "b": false,
+          "s": "5000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647577299,
+      "hash": "0x5c6f6987ae8bb29551d50426993ed30201a300abede08f79b7bb1928bb6ba2f6",
+      "error": null
+    },
+    {
+      "time": 1751357687411,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": true,
+          "s": "1000000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647576995,
+      "hash": "0xb2d61884c9add291e33f0426993da302017200c5a1c852738dafbce7d35901e9",
+      "error": null
+    },
+    {
+      "time": 1751357652496,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": false,
+          "s": "50000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647576542,
+      "hash": "0xdbe89cfea644f7c7fd1d0426993bde020110000e90ce15dcd6812d5f63305a38",
+      "error": null
+    },
+    {
+      "time": 1751357626330,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 183,
+          "b": false,
+          "s": "1250",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647576187,
+      "hash": "0x3f37fa1e324eef6fba420426993a7b0201590098bc8416c6437f5802bfd0d330",
+      "error": null
+    },
+    {
+      "time": 1751357588432,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 16,
+          "b": false,
+          "s": "7300",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647575705,
+      "hash": "0xafa4a457b417542a5622042699389902010e0078be24e636b862efd3543f2f76",
+      "error": null
+    },
+    {
+      "time": 1751357568828,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 116,
+          "b": false,
+          "s": "12.5",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647575440,
+      "hash": "0xc56c4ed211531e9d63a1042699379002017b00157d42ff5204998d6aa41f29aa",
+      "error": null
+    },
+    {
+      "time": 1751357522848,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": false,
+          "s": "40000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647574815,
+      "hash": "0x08b408a37a63742a2fd6042699351f020231008214d55ac6a326000e6eceb2e7",
+      "error": null
+    },
+    {
+      "time": 1751357492975,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 70,
+          "b": true,
+          "s": "1200",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647574439,
+      "hash": "0xc2d586ec8fa3d7626a1f04269933a702017500d4945ba80a9172e90f8df987f7",
+      "error": null
+    },
+    {
+      "time": 1751356751375,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 128,
+          "b": true,
+          "s": "28000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647564771,
+      "hash": "0x36e6af5424b87732f9180426990de30201cb00202a921e48dcd04bc0ce224f4e",
+      "error": null
+    },
+    {
+      "time": 1751355350756,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 98,
+          "b": false,
+          "s": "10000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647546436,
+      "hash": "0xce432d713284e0bd39ef042698c64402055600b4c463690a23141ee01d907fe8",
+      "error": null
+    },
+    {
+      "time": 1751355306010,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": true,
+          "s": "760000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647545854,
+      "hash": "0xa006e4d975a86ca9c111042698c3fe02047300f68786c066e92eb77941767cbf",
+      "error": null
+    },
+    {
+      "time": 1751355275885,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": true,
+          "s": "620",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647545438,
+      "hash": "0x31c6f477d6bc355790a0042698c25e02023400c909e07011b16a7a5392e9ffb9",
+      "error": null
+    },
+    {
+      "time": 1751355237901,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": true,
+          "s": "50000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647544915,
+      "hash": "0x42657e872c08c22aaa00042698c05302022d000d6dbb2eaf777143f8a688a17e",
+      "error": null
+    },
+    {
+      "time": 1751355211019,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 27,
+          "b": true,
+          "s": "3000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647544551,
+      "hash": "0x6db50347b2fe96ef95c8042698bee7019a006c237d86e899a72608b72ec027a3",
+      "error": null
+    },
+    {
+      "time": 1751355172666,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 39,
+          "b": true,
+          "s": "2000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647544058,
+      "hash": "0xfdbbcbbdb57e1709d82a042698bcfa02010900c4eca675af862d5e1adfcb6d5a",
+      "error": null
+    },
+    {
+      "time": 1751355128075,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 66,
+          "b": false,
+          "s": "5000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647543489,
+      "hash": "0xa9b883a691a41d5d155d042698bac101c000e453c0ecdba42b8bd043e3e8ee65",
+      "error": null
+    },
+    {
+      "time": 1751354993383,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": true,
+          "s": "890640",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647541694,
+      "hash": "0xf2380f4166b37d150e23042698b3be0201480073c7a8b15088362165369d9c6b",
+      "error": null
+    },
+    {
+      "time": 1751354942220,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 66,
+          "b": false,
+          "s": "3000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647541016,
+      "hash": "0xb899d8132c590f644df1042698b11802022a009e6fe6d69e5713b762d82237c8",
+      "error": null
+    },
+    {
+      "time": 1751353579384,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 172,
+          "b": false,
+          "s": "30000",
+          "r": true,
+          "m": 15,
+          "t": false
+        }
+      },
+      "block": 647523231,
+      "hash": "0x762595035f262d943b840426986b9f02017a0033a834ada5a93040f946de7a24",
+      "error": null
+    },
+    {
+      "time": 1751352577646,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 65,
+          "b": true,
+          "s": "39000",
+          "r": true,
+          "m": 10,
+          "t": false
+        }
+      },
+      "block": 647510325,
+      "hash": "0x71030609582a26f2bcee042698393502022500ddf32b8d714c9a4c4e838f3222",
+      "error": null
+    },
+    {
+      "time": 1751348369901,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 16,
+          "b": false,
+          "s": "20000",
+          "r": true,
+          "m": 30,
+          "t": false
+        }
+      },
+      "block": 647455240,
+      "hash": "0xb3cf3de4061b6133de04042697620802076a00e496b0f0b584bc549c0d962fa2",
+      "error": null
+    },
+    {
+      "time": 1751339686580,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 172,
+          "b": false,
+          "s": "30000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647341266,
+      "hash": "0x7af61b5ebfe20e62375c042695a4d2019700fc930a4146c2a3e78263312b8aca",
+      "error": "Exceeded max number of active TWAP orders."
+    },
+    {
+      "time": 1751339596626,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": true,
+          "s": "900000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647340071,
+      "hash": "0x663a10511dc65d2c4f4c042695a0270201600030f0873d83a34fd768dc66501b",
+      "error": "Exceeded max number of active TWAP orders."
+    },
+    {
+      "time": 1751339542262,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 16,
+          "b": false,
+          "s": "20000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647339356,
+      "hash": "0x06473540e23dbb669eea0426959d5c020158005b679004b6ed54a33d3c39ea33",
+      "error": "Exceeded max number of active TWAP orders."
+    },
+    {
+      "time": 1751339511300,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 106,
+          "b": false,
+          "s": "15000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647338935,
+      "hash": "0x514858516d0713f60e4b0426959bb70202df00fe71fcbca46a7841e4f7df3f96",
+      "error": null
+    },
+    {
+      "time": 1751339474900,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": false,
+          "s": "80000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647338485,
+      "hash": "0xa0b0cefde00fed18c89704269599f501bc002f8349b0af1bcb48292522b358b9",
+      "error": null
+    },
+    {
+      "time": 1751339438441,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": false,
+          "s": "180000",
+          "r": true,
+          "m": 30,
+          "t": false
+        }
+      },
+      "block": 647338017,
+      "hash": "0xf5fc9a6b85ee7958a48404269598210201b500db7a961286425fd163edb10667",
+      "error": null
+    },
+    {
+      "time": 1751339382440,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": true,
+          "s": "1000000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647337265,
+      "hash": "0xf0c84dea8ae52383ec170426959531020421009d58284084e9d33befa2961f20",
+      "error": null
+    },
+    {
+      "time": 1751339334020,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 12,
+          "b": false,
+          "s": "100000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647336617,
+      "hash": "0x15f20183d4abf9ff1e2604269592a90201ce00bf4e90d27e3d82918361383a0e",
+      "error": null
+    },
+    {
+      "time": 1751339126872,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 48,
+          "b": true,
+          "s": "5000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647333878,
+      "hash": "0x04b3995ad9773c82c25804269587f60205bd00bd6764f5d2fa2bcab63deda898",
+      "error": null
+    },
+    {
+      "time": 1751338963644,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": true,
+          "s": "1250",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647331732,
+      "hash": "0xd7767e640065a913041f0426957f9402011b002cd9168031c927f08213bdea0a",
+      "error": null
+    },
+    {
+      "time": 1751338891033,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 27,
+          "b": true,
+          "s": "7000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647330771,
+      "hash": "0x17a8ed67e65bc8e847e20426957bd301c200ae8aec7ea9cf07ed80f402bfc3a3",
+      "error": null
+    },
+    {
+      "time": 1751338830806,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": true,
+          "s": "80000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647329955,
+      "hash": "0x860fff679c89ae5d624c04269578a302010200ad4d1a2d0d2aed0bd30472a12a",
+      "error": null
+    },
+    {
+      "time": 1751338821970,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": true,
+          "s": "80000",
+          "r": true,
+          "m": 240,
+          "t": false
+        }
+      },
+      "block": 647329831,
+      "hash": "0x74bfc7902d732c299fe90426957827016b002a45caca2d2e5a89b980d5a24062",
+      "error": null
+    },
+    {
+      "time": 1751331614638,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "230000",
+        "time": 1751331595491
+      },
+      "block": 647235946,
+      "hash": "0xbb2640d89e64e57cd720042694096a0000310b93eb7f037ddfd46577884c8a7b",
+      "error": null
+    },
+    {
+      "time": 1751331585554,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "230796.79",
+        "toPerp": true,
+        "nonce": 1751331528064
+      },
+      "block": 647235583,
+      "hash": "0x89d2645f437ff40b7edb04269407ff013400fc3265bcec447485c181c1e3db7e",
+      "error": null
+    },
+    {
+      "time": 1751295859040,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": false,
+          "s": "50000",
+          "r": false,
+          "m": 360,
+          "t": false
+        }
+      },
+      "block": 646767819,
+      "hash": "0xd682bdd06804ef884ff404268ce4cb0203a6008e64da7cf194ef69c77ac343b1",
+      "error": null
+    },
+    {
+      "time": 1751295818411,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": false,
+          "s": "150444",
+          "r": false,
+          "m": 360,
+          "t": false
+        }
+      },
+      "block": 646767294,
+      "hash": "0x0539f2b0e6ad4309656604268ce2be0193003df9bcbd7e55f356ed0f86254bbc",
+      "error": null
+    },
+    {
+      "time": 1751295697671,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x2e92a9e1f3d9368c2533d513f030509abe98d113",
+        "agentName": null,
+        "nonce": 1751295548741
+      },
+      "block": 646765775,
+      "hash": "0x6a260c545ec48c768a3d04268cdccf01f3001e18604a1374045357360d385e8d",
+      "error": null
+    },
+    {
+      "time": 1750188150100,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "token": "NEKO:0x7079200f1b1511a6d344d399fb9bf984",
+        "amount": "3504.42477876",
+        "time": 1750188149816
+      },
+      "block": 632581619,
+      "hash": "0xd06e08e6a307bbf5e4b70425b46df302017700eddfd5ec0d7425c4ef88c0dc9d",
+      "error": null
+    },
+    {
+      "time": 1749561439264,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "16300",
+        "time": 1749561298785
+      },
+      "block": 624503426,
+      "hash": "0xcd9773391ee993c9c0560425392a8201bf0078720a95163215ae567e4f834523",
+      "error": null
+    },
+    {
+      "time": 1749322748156,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 27,
+          "b": false,
+          "s": "5000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621496149,
+      "hash": "0xc6220ca0196063c2bd7504250b475502016a003cfcfb43b098f91f07873fd82a",
+      "error": null
+    },
+    {
+      "time": 1749322665470,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": false,
+          "s": "1000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621495122,
+      "hash": "0x5f6c3e55fb36fd53dbc104250b435201510096db5720314f5dd0d07950a08be7",
+      "error": null
+    },
+    {
+      "time": 1749322609526,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": false,
+          "s": "80000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621494429,
+      "hash": "0x387655883efa21333b5604250b409d02016a00d8e085915978e00da2ab68cd73",
+      "error": null
+    },
+    {
+      "time": 1749322526921,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 48,
+          "b": false,
+          "s": "5000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621493357,
+      "hash": "0xa905e2bf8a1dabf18af304250b3c6d01d4005e621ef3f3524ffe5b7d9196fb5c",
+      "error": null
+    },
+    {
+      "time": 1749322455321,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 12,
+          "b": true,
+          "s": "100000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621492433,
+      "hash": "0x2cda4d92898c67d4752504250b38d10154009dc0f6bfc80fb333777b6a6ba412",
+      "error": null
+    },
+    {
+      "time": 1749322349230,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 16,
+          "b": true,
+          "s": "20000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621491053,
+      "hash": "0xc76628aeb66d7998894404250b336d019c00cf688d6551634c9c8566422acfeb",
+      "error": null
+    },
+    {
+      "time": 1749322293241,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 65,
+          "b": false,
+          "s": "20000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621490338,
+      "hash": "0x7fb23a5f1c09d4b975de04250b30a201b0005843211dc017c438a633c9df2320",
+      "error": null
+    },
+    {
+      "time": 1749322284307,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 65,
+          "b": false,
+          "s": "20000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621490225,
+      "hash": "0x102e9b3e9701a91d56a904250b303102011c001e6087aeb61fb43be3200446dd",
+      "error": null
+    },
+    {
+      "time": 1749322278898,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapCancel",
+        "a": 65,
+        "t": 767050
+      },
+      "block": 621490153,
+      "hash": "0xe1a5f3a09f6df3f0e3d604250b2fe901e700c8046c21634a2f782dc9597e74c6",
+      "error": null
+    },
+    {
+      "time": 1749322272857,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 65,
+          "b": false,
+          "s": "20000",
+          "r": false,
+          "m": 30,
+          "t": false
+        }
+      },
+      "block": 621490068,
+      "hash": "0xb4c6f52da77aa0e6462e04250b2f94015000d0feb2bc41bb65d3b0c87a856028",
+      "error": null
+    },
+    {
+      "time": 1749322191854,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 172,
+          "b": true,
+          "s": "30000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621489025,
+      "hash": "0xe756607e6cc077c4e12e04250b2b810144004e9b241fcd2b6cdabca2278b8c01",
+      "error": null
+    },
+    {
+      "time": 1749322073091,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": false,
+          "s": "500000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 621487515,
+      "hash": "0x74eb9695922c4bd97dbd04250b259b01da00700f2457231f4339abb12ba5b539",
+      "error": null
+    },
+    {
+      "time": 1749305458380,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "430000",
+        "time": 1749305442333
+      },
+      "block": 621273902,
+      "hash": "0x1bba5a014daa4f114d65042507e32e0201a3001a0fb93514a3161c63f34c17a2",
+      "error": null
+    },
+    {
+      "time": 1749305397657,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "248039.1",
+        "toPerp": true,
+        "nonce": 1749305346627
+      },
+      "block": 621273120,
+      "hash": "0xe509ecaf2b33bba9fb08042507e0200201410009964e87954cd3d42b3dd31d19",
+      "error": null
+    },
+    {
+      "time": 1749231747360,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.994",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620327227,
+      "hash": "0x5fcb9a5d92a21b887e040424f9713b02018d0020042f1439e22c6ef1ab0aad41",
+      "error": null
+    },
+    {
+      "time": 1749231745838,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.99",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620327208,
+      "hash": "0xa3ab869addc310a4864c0424f9712802029200e6aca1863082dfab2bbe32c4d2",
+      "error": null
+    },
+    {
+      "time": 1749231743952,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.966",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620327186,
+      "hash": "0x8ab5b0b6a40e42980c740424f9711202027800d730000e4b5445daa8d3f3342d",
+      "error": null
+    },
+    {
+      "time": 1749231742354,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.948",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620327165,
+      "hash": "0x963962863e97143f62a90424f970fd02010f0072caf6f12dc64f1f5469f6b83c",
+      "error": null
+    },
+    {
+      "time": 1749231740444,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.945",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620327141,
+      "hash": "0x7d77d21d92d4132fb4e30424f970e50201810086320c5496a37c4ac234693748",
+      "error": null
+    },
+    {
+      "time": 1749231730798,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.951",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620327019,
+      "hash": "0x900e39efcc5ac164ae6d0424f9706b02019d00edbb01c8e7e41155092f128c80",
+      "error": null
+    },
+    {
+      "time": 1749231729183,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.921",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326995,
+      "hash": "0x9031c12ea04728ec42e60424f970530202a500deac474988a8163abcf6032bca",
+      "error": null
+    },
+    {
+      "time": 1749231727338,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.921",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326973,
+      "hash": "0xbb7ece762dffedb27fc00424f9703d02025600fb81995939dd595c04755501a7",
+      "error": null
+    },
+    {
+      "time": 1749231726023,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.935",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326956,
+      "hash": "0x3dc80f360c24d255834c0424f9702c02011600927f395fd9cd22290c0af1353e",
+      "error": null
+    },
+    {
+      "time": 1749231717407,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.947",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326856,
+      "hash": "0xb288b931a365a58134120424f96fc802017e006abd50586be260d1fff923a539",
+      "error": null
+    },
+    {
+      "time": 1749231716062,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.947",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326837,
+      "hash": "0xddee7a9f2fe9bb68737c0424f96fb5019b00b3d2bed21d447f79407ca8cbf334",
+      "error": null
+    },
+    {
+      "time": 1749231708381,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.906",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326734,
+      "hash": "0x8653535bfa6a04a128850424f96f4e02015000b6ef3a027f2d7c528b16f36af5",
+      "error": null
+    },
+    {
+      "time": 1749231706602,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.899",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326715,
+      "hash": "0x12bc270220e0f8b5e2720424f96f3b0202dc002c26fc7b7b0e34603e61cee1e2",
+      "error": null
+    },
+    {
+      "time": 1749231704933,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.895",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326693,
+      "hash": "0xab809db3562994d5084e0424f96f25020166005606befbed5f75912862e0e8a6",
+      "error": null
+    },
+    {
+      "time": 1749231698549,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.907",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326614,
+      "hash": "0x18651d5db85dfc7d68530424f96ed60202d600aa2d72121bb6ca3d2e57925e85",
+      "error": null
+    },
+    {
+      "time": 1749231696965,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.903",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326593,
+      "hash": "0xaf9bc869063fbe6976100424f96ec102018f00b660d954696cb619fc10b4a0c7",
+      "error": null
+    },
+    {
+      "time": 1749231692680,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.908",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326539,
+      "hash": "0x3ef3bcdfea48ffaee4360424f96e8b02029d000afe257796f3dbadd18fdae8db",
+      "error": null
+    },
+    {
+      "time": 1749231691192,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.908",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326522,
+      "hash": "0xec51c6b1482c4b83c6150424f96e7a0202700022df4773a36c89a8c61ad99bf0",
+      "error": null
+    },
+    {
+      "time": 1749231670385,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.927",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326256,
+      "hash": "0xa2a18625ac97ff4875ae0424f96d700201ce00de95744708b01169abd89d10d8",
+      "error": null
+    },
+    {
+      "time": 1749231669032,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.945",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326240,
+      "hash": "0x97e53f389580aac2e78a0424f96d6001c8008a4cae8d639ee2113fb483ba8cd6",
+      "error": null
+    },
+    {
+      "time": 1749231667270,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.999",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326217,
+      "hash": "0x9f268d4bbd1f93f1cc7f0424f96d490201fb007d2d259a4d8b02a652ccacddbf",
+      "error": null
+    },
+    {
+      "time": 1749231665913,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.99",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326199,
+      "hash": "0x85fbe51b5f682fa807fe0424f96d3702019f00f05f8dccf41bf2bc6bfbb2809d",
+      "error": null
+    },
+    {
+      "time": 1749231664254,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.996",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326177,
+      "hash": "0x03d5c469b557a0dba3c90424f96d2102038500f3f2f82174d18c95d42ba587e9",
+      "error": null
+    },
+    {
+      "time": 1749231662335,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.002",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326153,
+      "hash": "0x29b977738bca8f2e43120424f96d0902018900b394249e52f0f8c6c5228b9dd8",
+      "error": null
+    },
+    {
+      "time": 1749231660979,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.006",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326135,
+      "hash": "0x2a6434a8a4e6617e0b840424f96cf70202c30093ed34199b6f060deedfa8b981",
+      "error": null
+    },
+    {
+      "time": 1749231659541,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.009",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326115,
+      "hash": "0xf4c039fd6da4056205f00424f96ce302018f00d676b37a8209348a1a57def304",
+      "error": null
+    },
+    {
+      "time": 1749231657741,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.019",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326090,
+      "hash": "0x07e1f5660f335e925d840424f96cca01a700af26d85bd54093e2a76459a44454",
+      "error": null
+    },
+    {
+      "time": 1749231656466,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.024",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326072,
+      "hash": "0x77b59985bc180e1770f30424f96cb802010a00f9e59e2a746fba7138d7f1f5ba",
+      "error": null
+    },
+    {
+      "time": 1749231654722,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.025",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326051,
+      "hash": "0x5b3523351be8630cac700424f96ca3020122008671847f4439e2419f119a1495",
+      "error": null
+    },
+    {
+      "time": 1749231653102,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.025",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326033,
+      "hash": "0x249bcd7558832e3459890424f96c9101a3006ca02e0b1d07772309563505e9d7",
+      "error": null
+    },
+    {
+      "time": 1749231651256,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.025",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620326007,
+      "hash": "0xd07c0c19b40ff9efcf150424f96c7701d300df329dd728dc650aa470dedde97c",
+      "error": null
+    },
+    {
+      "time": 1749231649030,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.027",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325982,
+      "hash": "0xe08a855587418779289d0424f96c5e01d2007521a14bad36a2b2decbcd790934",
+      "error": null
+    },
+    {
+      "time": 1749231646292,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.995",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325952,
+      "hash": "0x5c8f190688f54fb202b20424f96c4002070200a32068acf27aa4e07bde0f151e",
+      "error": null
+    },
+    {
+      "time": 1749231644410,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.995",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325932,
+      "hash": "0x65c903ca8554065d2a580424f96c2c01a30075bfdf456e2c3b70921bdafdc5a4",
+      "error": null
+    },
+    {
+      "time": 1749231642946,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325909,
+      "hash": "0x08f7890b1db8125f9e840424f96c1502017a00634207b86e6046252891600924",
+      "error": null
+    },
+    {
+      "time": 1749231641730,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.001",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325891,
+      "hash": "0x0cb2a28383c629c8130a0424f96c0302029d000074ae0ddfdac27e765d2d8745",
+      "error": null
+    },
+    {
+      "time": 1749231640255,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "37.004",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325869,
+      "hash": "0x5019cc5de8e0938add2c0424f96bed0201f400e9efeb297785aa934dc6a421f6",
+      "error": null
+    },
+    {
+      "time": 1749231638143,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.99",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325840,
+      "hash": "0x54a2497a48d32086067e0424f96bd00201ac00f885a524bb7d27ef75e690f7f6",
+      "error": null
+    },
+    {
+      "time": 1749231636537,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.99",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325819,
+      "hash": "0xafb6eff1a32a3da34ed60424f96bbb0201ad006d7e03d053c013708c37f92dc3",
+      "error": null
+    },
+    {
+      "time": 1749231634723,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.999",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325794,
+      "hash": "0xde8f39e158ad5b8b8cb70424f96ba202039300973049545de795a474f765f369",
+      "error": null
+    },
+    {
+      "time": 1749231621410,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.989",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325615,
+      "hash": "0xc7d90b0458ee9d7da8540424f96aef02021f00d5913e5ea4a5ea9a002651df14",
+      "error": null
+    },
+    {
+      "time": 1749231619956,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.982",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325592,
+      "hash": "0x66150f622c28f7f75f490424f96ad802063b004a13d0a9809fcf838b85ab1ddd",
+      "error": null
+    },
+    {
+      "time": 1749231617905,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.99",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325565,
+      "hash": "0x05736c9b6e7bb2b540a20424f96abd0202c3007f7618677b2352d685d8fe1fb9",
+      "error": null
+    },
+    {
+      "time": 1749231596180,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.974",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325294,
+      "hash": "0xdf8bf5d777b87806d09d0424f969ae01b2000cda51a2dfe7cff5e6ec9dc4a2a0",
+      "error": null
+    },
+    {
+      "time": 1749231594639,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.963",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325276,
+      "hash": "0xb9f5fb3c8d22690283f50424f9699c02021b002fa8daa73a0cc8acc42593b30c",
+      "error": null
+    },
+    {
+      "time": 1749231576708,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.88",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325043,
+      "hash": "0x54261caff0745bbbfefc0424f968b302013d00fe16aa79fd42fc3ec2384b7c2f",
+      "error": null
+    },
+    {
+      "time": 1749231575335,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.895",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620325026,
+      "hash": "0x1c83071215035adc46e90424f968a202014500855eb78a0ece8631158d883b2f",
+      "error": null
+    },
+    {
+      "time": 1749231572845,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.886",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620324997,
+      "hash": "0xd1592f8e2187d756236e0424f9688502026f002a5b9efc373649c58203140e70",
+      "error": null
+    },
+    {
+      "time": 1749231571106,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.886",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620324970,
+      "hash": "0x44e736ba6a28078bfcc90424f9686a02016500107b0865ced62080d8268d1bcf",
+      "error": null
+    },
+    {
+      "time": 1749231569330,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": true,
+            "p": "36.886",
+            "s": "500",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620324944,
+      "hash": "0x6c8f363e8a5c74101c9e0424f9685002011800d2fe1812168be1bc840e7136f3",
+      "error": null
+    },
+    {
+      "time": 1749231139495,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.921",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620319281,
+      "hash": "0x3f105520975e81e8f23b0424f95231020152007d9302db81927df54526e7d562",
+      "error": null
+    },
+    {
+      "time": 1749231134961,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.954",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620319223,
+      "hash": "0x60a872800da2735ba6c00424f951f7020184000676ce33dbe3438a6571c26276",
+      "error": null
+    },
+    {
+      "time": 1749231118895,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.823",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620319011,
+      "hash": "0x91e7479963d7ac97cdcd0424f9512302063c00b44dd94cebb1bce6d2c3d62e71",
+      "error": null
+    },
+    {
+      "time": 1749231113254,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.826",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318932,
+      "hash": "0x9bc2bbd6a7b53163ee9c0424f950d4017a004844d7ed20d4ec89d828f523dfd6",
+      "error": null
+    },
+    {
+      "time": 1749231110381,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.828",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318899,
+      "hash": "0x5869a781dcc3d1f6e1310424f950b3020115001378750a4dd9ac92afbf6455b3",
+      "error": null
+    },
+    {
+      "time": 1749231104572,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.84",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318819,
+      "hash": "0xafe7304ec2cde348f4da0424f9506301ee0000a13c822449dec4ff2ae60fa648",
+      "error": null
+    },
+    {
+      "time": 1749231101903,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.839",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318779,
+      "hash": "0xb326511a8283bfc4a80c0424f9503b02012700a0cd47b45911312a39baf1cc17",
+      "error": null
+    },
+    {
+      "time": 1749231098284,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.831",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318734,
+      "hash": "0xc160c2c7b2e35e1d357a0424f9500e0201ca005ee7a871f91bcf9aab42d6b745",
+      "error": null
+    },
+    {
+      "time": 1749231095097,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.832",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318698,
+      "hash": "0xf338765709b227d8e71c0424f94fea02010300973a5a37066a7de66064d1ea36",
+      "error": null
+    },
+    {
+      "time": 1749231092608,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.843",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318667,
+      "hash": "0xde057fb03cd4be4c04cf0424f94fcb02021e00fe3e3ade77b1564b8e4761dcbd",
+      "error": null
+    },
+    {
+      "time": 1749231089933,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.857",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318637,
+      "hash": "0x04263185a10b029a7ac40424f94fad02020f00cdb3f7bf34f6610b68da488f99",
+      "error": null
+    },
+    {
+      "time": 1749231087365,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.851",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318599,
+      "hash": "0xbe70b00d67dcefeb56c50424f94f87020199002c06d1282b341b164c4e54afb9",
+      "error": null
+    },
+    {
+      "time": 1749231080920,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.883",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318508,
+      "hash": "0xaa811c526dd0d88affaa0424f94f2c020232006794411165b8fcf25b196dbdd0",
+      "error": null
+    },
+    {
+      "time": 1749231078293,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.871",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318470,
+      "hash": "0xc0ced282216a0099e58d0424f94f060201d300b163e15f36131455fbde7a9397",
+      "error": null
+    },
+    {
+      "time": 1749231075219,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.869",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318427,
+      "hash": "0x50e5e5b36041279161550424f94edb02014d009b4e92cc574ef5a598ce5e1f3b",
+      "error": null
+    },
+    {
+      "time": 1749231071591,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.847",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318376,
+      "hash": "0x800e4c60b8633195669c0424f94ea80201ba00d56a387f78323fbab1a8a5440b",
+      "error": null
+    },
+    {
+      "time": 1749231067426,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.847",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318321,
+      "hash": "0x4a09e2943a7a0753369d0424f94e710203a2002a7fffba3dc4db2de6eb671765",
+      "error": null
+    },
+    {
+      "time": 1749231063077,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.875",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318259,
+      "hash": "0x7a3090961dbfb6b828b50424f94e3301e3002b0e6037c65776919a99ef090fca",
+      "error": null
+    },
+    {
+      "time": 1749231058670,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.886",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318201,
+      "hash": "0x81e884fa49a776654ec60424f94df9020197008fd5ef5068cd43605a1ba7470e",
+      "error": null
+    },
+    {
+      "time": 1749231054967,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.906",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620318149,
+      "hash": "0xc86285d22e1d2edcae770424f94dc502010000c34aa7eed672322619e0eef4f0",
+      "error": null
+    },
+    {
+      "time": 1749231027800,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.952",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317801,
+      "hash": "0x8db760aaf24f45207b080424f94c6901bd006cf4f18a2ef9d38a915849233357",
+      "error": null
+    },
+    {
+      "time": 1749231021172,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.972",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317717,
+      "hash": "0xb49e4f8d7307e939d3960424f94c15020148007f2c169b5dc207a8c9cdcaa3f6",
+      "error": null
+    },
+    {
+      "time": 1749231017759,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.919",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317673,
+      "hash": "0xa619885193eeacea9a670424f94be901d100ecb1c6a8dd578bedd933f70adfbf",
+      "error": null
+    },
+    {
+      "time": 1749231011022,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.925",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317583,
+      "hash": "0x5bb75d6d8378f6dc69d10424f94b8f02038c009078a55e3f8531e4024acc82e7",
+      "error": null
+    },
+    {
+      "time": 1749231007358,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.919",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317543,
+      "hash": "0xc3325a82c63c1aedc6880424f94b6701cd00da21d294a29048ac58f4e32afb36",
+      "error": null
+    },
+    {
+      "time": 1749231004073,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.917",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317501,
+      "hash": "0x34155c1559fe991e37470424f94b3d02051e000c9d19049f759e4bccc95794a3",
+      "error": null
+    },
+    {
+      "time": 1749230994308,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.982",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317386,
+      "hash": "0x9ab1990620170775f4ed0424f94aca02011500a3c0756a717ebf8edfe965c3f1",
+      "error": null
+    },
+    {
+      "time": 1749230989202,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.019",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317314,
+      "hash": "0x394307d46cd854206eeb0424f94a820201100039085ee1a0f75ca51947182fde",
+      "error": null
+    },
+    {
+      "time": 1749230982805,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.029",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317223,
+      "hash": "0x282ddb0fc043e7aa68a80424f94a2702010f001562f809b91693795d8d103b66",
+      "error": null
+    },
+    {
+      "time": 1749230979152,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.032",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317170,
+      "hash": "0x080d52a651a60af84e010424f949f201ea00cdfb5e50107338450a22191881a7",
+      "error": null
+    },
+    {
+      "time": 1749230974518,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.047",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620317108,
+      "hash": "0x962852fc6666767d142d0424f949b402020900b99822bc49d20de39e8d86dcb4",
+      "error": null
+    },
+    {
+      "time": 1749230964810,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.141",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316993,
+      "hash": "0x57e4f86292bfecade3b60424f9494102010f000eb15d79b0dd227770f792733c",
+      "error": null
+    },
+    {
+      "time": 1749230956792,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.141",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316886,
+      "hash": "0xace45b839a99d0a79c880424f948d602016a0097fd8c4eb5c83e1855cee0e43f",
+      "error": null
+    },
+    {
+      "time": 1749230951229,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.136",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316820,
+      "hash": "0xc5e90ad1674d2afbbebb0424f948940201d500c08b277606909c42e5191e9360",
+      "error": null
+    },
+    {
+      "time": 1749230945303,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.082",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316747,
+      "hash": "0xc989bc881fbfacf2d2d00424f9484b01ca00e1cac6a256d9b0d27898cee01c60",
+      "error": null
+    },
+    {
+      "time": 1749230927629,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.091",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316516,
+      "hash": "0x5ad2a2e41be18ca6463a0424f947640201d800799f0742d81176607ca73d8339",
+      "error": null
+    },
+    {
+      "time": 1749230923546,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.076",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316467,
+      "hash": "0x312fa79cb753e82d8d960424f94733020303000662faa6af60beb519f6c720c7",
+      "error": null
+    },
+    {
+      "time": 1749230918836,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.118",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316402,
+      "hash": "0x2796f60141cc7f879e130424f946f20202bb001646072b8ad642ca74fc890315",
+      "error": null
+    },
+    {
+      "time": 1749230913160,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.126",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316325,
+      "hash": "0xe44dc10ba6e55da65cef0424f946a502015300daa56c11bbeba6af938fffe68c",
+      "error": null
+    },
+    {
+      "time": 1749230909543,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.144",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620316271,
+      "hash": "0x775dc5908e5169eadde70424f9466f01b70009803f31fd649a6c1080f45216e6",
+      "error": null
+    },
+    {
+      "time": 1749230864880,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.076",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315678,
+      "hash": "0x60e154760186a5dfc3680424f9441e01c4004bf21ab2e8c14e8e167b0b9a22aa",
+      "error": null
+    },
+    {
+      "time": 1749230861345,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.063",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315634,
+      "hash": "0x17d018a1db79fdff0b1a0424f943f202021c00631734e800e7dc47fa6104a084",
+      "error": null
+    },
+    {
+      "time": 1749230858400,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.048",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315599,
+      "hash": "0xd1c6ac498515f31a6a2f0424f943cf02019100f3e6867ee09d078707b49706ac",
+      "error": null
+    },
+    {
+      "time": 1749230855586,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.048",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315564,
+      "hash": "0xa52209e662af9d396bb60424f943ac02016a0047120eca24ccfa68a30ecdaf8e",
+      "error": null
+    },
+    {
+      "time": 1749230852733,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.05",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315528,
+      "hash": "0xa0fe8e7f85a21c090a4a0424f94388020216006be0711f27f9e2e06787496511",
+      "error": null
+    },
+    {
+      "time": 1749230850054,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.028",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315490,
+      "hash": "0x77326c02e9c6281210a00424f9436202015000fd49b0e19b03de18840cd08b67",
+      "error": null
+    },
+    {
+      "time": 1749230846756,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.028",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315446,
+      "hash": "0x7fa431e8dd4debb935b80424f943360202270031b8bf29351459bcacc103c7e5",
+      "error": null
+    },
+    {
+      "time": 1749230842957,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.01",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315397,
+      "hash": "0x3c99c98e0d138310ec2e0424f9430501fa0015fbd5f5874e91d94f892eba2e17",
+      "error": null
+    },
+    {
+      "time": 1749230829545,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.957",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315217,
+      "hash": "0x2c34f4362114da3e1c6c0424f9425102028600e3d2e45aa21d09e2b552126eca",
+      "error": null
+    },
+    {
+      "time": 1749230821124,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.975",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315112,
+      "hash": "0xe11ad47b2c85c4e44f880424f941e802023e00b793df5134b1b592f9d32dbe48",
+      "error": null
+    },
+    {
+      "time": 1749230817055,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.972",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315059,
+      "hash": "0x2efe283d790940243c590424f941b302017d00c3e3965544cfbfd96f18b5d679",
+      "error": null
+    },
+    {
+      "time": 1749230814865,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.984",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620315029,
+      "hash": "0xdc3eca4aba7d2888eaa40424f941950202dd0097fa9e203ad49a59a440d3e230",
+      "error": null
+    },
+    {
+      "time": 1749230812171,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.988",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314993,
+      "hash": "0xbb0bc7dbaf6ce4e0a3f20424f941710201be002cd26fb07806e97e4b87b62a75",
+      "error": null
+    },
+    {
+      "time": 1749230809777,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.995",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314966,
+      "hash": "0x226c49e28df3c144b9f10424f941560202170003f24cb1499e469ec843947501",
+      "error": null
+    },
+    {
+      "time": 1749230807611,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.993",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314941,
+      "hash": "0x767ab6610d68cb4fc3a60424f9413d020270003f189648a04afe911af97a751a",
+      "error": null
+    },
+    {
+      "time": 1749230805560,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.979",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314911,
+      "hash": "0xd72ac74aedef865f76620424f9411f0201ed004e600cd581f8c522ef7b78e3b7",
+      "error": null
+    },
+    {
+      "time": 1749230803894,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.963",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314887,
+      "hash": "0x456b282577ff5f18e90a0424f941070203b800b4fcf7e739333913fe40ca6427",
+      "error": null
+    },
+    {
+      "time": 1749230796012,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.946",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314788,
+      "hash": "0xd9af746d63bbbb19c1bc0424f940a402032e00a21e05957c412b6b744d19c4ec",
+      "error": null
+    },
+    {
+      "time": 1749230793004,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.949",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314749,
+      "hash": "0x7bbdd480c0a9960fbf290424f9407d02014e000c3808ce4daf726d97243c6af7",
+      "error": null
+    },
+    {
+      "time": 1749230789807,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.955",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314704,
+      "hash": "0xb88721e35d01f4a4862f0424f9405002029000f50d1b0d38b25c847587df00d8",
+      "error": null
+    },
+    {
+      "time": 1749230765783,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.929",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314405,
+      "hash": "0xe0bff6f6be350d88e15a0424f93f25020382005ce4d7ee2da370020bf7ef3660",
+      "error": null
+    },
+    {
+      "time": 1749230761751,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.849",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314360,
+      "hash": "0x59bc10a5042168bb5a530424f93ef8020228006c35be8ea8836d652a56b141c6",
+      "error": null
+    },
+    {
+      "time": 1749230751178,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.862",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314216,
+      "hash": "0x9195830262aad23f59760424f93e6802031c00ed0a06ec6353b5f10c4f5ba567",
+      "error": null
+    },
+    {
+      "time": 1749230748407,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.845",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314176,
+      "hash": "0x2ff39acf9f8e117830020424f93e400202ed006b0ebff046fe68e0eb23b32ea3",
+      "error": null
+    },
+    {
+      "time": 1749230746502,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.832",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314149,
+      "hash": "0xa381ad23e405bae50b250424f93e250201b100ad45b827103cbbc9f7288623c9",
+      "error": null
+    },
+    {
+      "time": 1749230737593,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.825",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620314053,
+      "hash": "0xd9219f124a411fc4fb2d0424f93dc50203a40031cf2b807a7f60801943270087",
+      "error": null
+    },
+    {
+      "time": 1749230733136,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.821",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313995,
+      "hash": "0x361d28a2bd54cd07a3380424f93d8b0201b900519bc81d6753cf8ec7e4498234",
+      "error": null
+    },
+    {
+      "time": 1749230730392,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.901",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313957,
+      "hash": "0x63e98f79c79b643f10a90424f93d650209410026ffec7a6272af5c060625700f",
+      "error": null
+    },
+    {
+      "time": 1749230718419,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.904",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313799,
+      "hash": "0x06cdea3d3225b6c4f5620424f93cc70202b8003e0de1e128ea25d3782a52bf49",
+      "error": null
+    },
+    {
+      "time": 1749230716246,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.856",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313771,
+      "hash": "0xc3cef4eb685f164209440424f93cab01b1009a2e018b9f80ab89efcad04378b2",
+      "error": null
+    },
+    {
+      "time": 1749230709112,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.856",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313672,
+      "hash": "0x587f9be2701f4b5eeae30424f93c480202d50053e94c8449c3f14de57820f956",
+      "error": null
+    },
+    {
+      "time": 1749230705098,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.861",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313615,
+      "hash": "0x7c9d51b44aa3f0e383720424f93c0f0203570000dda5e225c908f44901e6ef73",
+      "error": null
+    },
+    {
+      "time": 1749230703195,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.898",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313588,
+      "hash": "0x55e991f025ef8dd7febb0424f93bf40201cc008c24d02622e4ca9a42cffd50fb",
+      "error": null
+    },
+    {
+      "time": 1749230697400,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.886",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313509,
+      "hash": "0x172c1ddcbd33a56ba6990424f93ba5020150003163f8f9a80bf35d619da6a7ac",
+      "error": null
+    },
+    {
+      "time": 1749230694370,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.887",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313471,
+      "hash": "0xbdbed5e90a968157cccb0424f93b7f02030500c734f6c425d84bfa0eed6870e3",
+      "error": null
+    },
+    {
+      "time": 1749230692226,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.904",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313445,
+      "hash": "0x643447b7394c19ddb3470424f93b6501e200dad5783b046814657367904a7624",
+      "error": null
+    },
+    {
+      "time": 1749230688569,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.927",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313390,
+      "hash": "0xf4794732d5f206e44e420424f93b2e0201c900c4d677571851ed5b923c79677b",
+      "error": null
+    },
+    {
+      "time": 1749230681703,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.943",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313296,
+      "hash": "0x0c6aebc49b3250d2bead0424f93ad00186009da277e134743ed8cb482a969a73",
+      "error": null
+    },
+    {
+      "time": 1749230678835,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.963",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313260,
+      "hash": "0xb286ac19ef54d63c5e4f0424f93aac02035d0023bf7996e16a7b2866309ba476",
+      "error": null
+    },
+    {
+      "time": 1749230672940,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.97",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313184,
+      "hash": "0x247c5dc5a7aabf5ed7860424f93a6002016500b8e4463388ffa8d9148f618c9d",
+      "error": null
+    },
+    {
+      "time": 1749230671507,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.972",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313164,
+      "hash": "0xcf4339cf85358fffb9f80424f93a4c0203570012bebcc947a26d03cd38c3e0cf",
+      "error": null
+    },
+    {
+      "time": 1749230662085,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.004",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313050,
+      "hash": "0xbd33e44d38c7438736080424f939da01ca008f971dbf9dcd52a106cb1eadcc87",
+      "error": null
+    },
+    {
+      "time": 1749230659562,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "30.99",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620313014,
+      "hash": "0xd2a25793edab8da4dd480424f939b60201fa00b1130c2efbe259fb6ad7e9101e",
+      "error": null
+    },
+    {
+      "time": 1749230640738,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.015",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312762,
+      "hash": "0x7e246e7a7cc511daeb5c0424f938ba02034100a35f58b620c12c18876a729cc0",
+      "error": null
+    },
+    {
+      "time": 1749230637255,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.04",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312716,
+      "hash": "0x72bbdd138eab2fba8ae90424f9388c0201fc00dd0c4de711d9d32936ca1f7d8b",
+      "error": null
+    },
+    {
+      "time": 1749230607951,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.073",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312320,
+      "hash": "0x32175ffab145e6cfd21b0424f9370001db009e38e8386edda5a398e4fa2b468e",
+      "error": null
+    },
+    {
+      "time": 1749230606020,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.073",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312295,
+      "hash": "0xf9f4bf10b9b90f9071980424f936e70207fd004e56a0083bd9caa2b23e1c525b",
+      "error": null
+    },
+    {
+      "time": 1749230602602,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.092",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312248,
+      "hash": "0x8f82065f52b502629b660424f936b802029e00309d3116bccbcdca3dfdd8e340",
+      "error": null
+    },
+    {
+      "time": 1749230598280,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.205",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312184,
+      "hash": "0x4fd71ca75791d221e7800424f936780203ad0025d663fa8259bc983e25f3e3eb",
+      "error": null
+    },
+    {
+      "time": 1749230593531,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.205",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312130,
+      "hash": "0x46fbcff1f20d2bf84cce0424f936420204cb007059f7741716253dd6b0695e59",
+      "error": null
+    },
+    {
+      "time": 1749230591526,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.205",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312103,
+      "hash": "0x2e657c2ff1c2b1d09a1c0424f936270201cd0049474cfb55e12c532285e4afaf",
+      "error": null
+    },
+    {
+      "time": 1749230588056,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.205",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620312051,
+      "hash": "0xe9a45c3c6f9abd54ce210424f935f302013f002961373031fa83d310a01da173",
+      "error": null
+    },
+    {
+      "time": 1749230582719,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.227",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311983,
+      "hash": "0x09b6cf36d722f8e0a3030424f935af0207150019814f6ec5f51c7b9ba1733952",
+      "error": null
+    },
+    {
+      "time": 1749230574606,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.229",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311872,
+      "hash": "0xab44947830246d6dfb5d0424f935400196007b1373d00c22d661de417a8cc775",
+      "error": null
+    },
+    {
+      "time": 1749230570623,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.236",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311817,
+      "hash": "0x3c113a0b760ab06658f50424f9350902047600373326f7013528edfb431a6786",
+      "error": null
+    },
+    {
+      "time": 1749230559518,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.227",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311666,
+      "hash": "0x68d754e23fc78f9af54d0424f934720205d6002d264f26e477327e414c006fe1",
+      "error": null
+    },
+    {
+      "time": 1749230556163,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.226",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311622,
+      "hash": "0xf97b8c90a4986b3bcd700424f934460201e3003d094de79f660c6a07930fa09d",
+      "error": null
+    },
+    {
+      "time": 1749230547464,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.232",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311517,
+      "hash": "0xdd9b02fa2945940de6900424f933dd02021a001f7a88432b3f8e655c5bc7107f",
+      "error": null
+    },
+    {
+      "time": 1749230542622,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.247",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311457,
+      "hash": "0xba729951150385e9e22a0424f933a102010200fa80318dd76c9017f9f20873c7",
+      "error": null
+    },
+    {
+      "time": 1749230537171,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 159,
+            "b": false,
+            "p": "31.237",
+            "s": "250",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 620311395,
+      "hash": "0xd45edf8f38b602e0010f0424f93363020288000e3247b53874427cda54fbaf7d",
+      "error": null
+    },
+    {
+      "time": 1749017959513,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 106,
+          "b": true,
+          "s": "15000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617582209,
+      "hash": "0x669156d2b95fb9ade52b0424cf8e8102011e00360da3ccd057e3e543eb028833",
+      "error": null
+    },
+    {
+      "time": 1749017801645,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": false,
+          "s": "250",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617580175,
+      "hash": "0x1ca84ab7c7d617019f200424cf868f01b2002ebf738db870094b28dfb64ebaf5",
+      "error": null
+    },
+    {
+      "time": 1749017755294,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 27,
+          "b": false,
+          "s": "2000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617579621,
+      "hash": "0x690b3c080944fd23948c0424cf846502026700e44c5b44f985804776f274936a",
+      "error": null
+    },
+    {
+      "time": 1749017676584,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 66,
+          "b": true,
+          "s": "3000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617578593,
+      "hash": "0xca09a28eeafe7afba8e70424cf806102017800168f031c1b27a0f385336ff725",
+      "error": null
+    },
+    {
+      "time": 1749017609307,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": false,
+          "s": "40000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617577750,
+      "hash": "0x6a8d57c03cfa52d86ec90424cf7d1601ad00fc6dfff112634cc1091554ae40c1",
+      "error": null
+    },
+    {
+      "time": 1749017505380,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": false,
+          "s": "500000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617576360,
+      "hash": "0xc4a8b006f25b3a0917800424cf77a80201cf0056a7fe3e65afc9dd19b88d9acf",
+      "error": null
+    },
+    {
+      "time": 1749017358855,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617574509,
+      "hash": "0x7f727868bf104e52f8de0424cf706d01d4007e38774c514dfe67450236c6c1dd",
+      "error": null
+    },
+    {
+      "time": 1749017261530,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": false,
+          "s": "900000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617573275,
+      "hash": "0xc86cc9b05e65c52b57960424cf6b9b02012000d5fbef7193ae6219949ef25873",
+      "error": null
+    },
+    {
+      "time": 1749017125807,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617571617,
+      "hash": "0x681d26937033c9f29ec70424cf6521014a00bb5c3e9e63ebc8e2bbf78db50fae",
+      "error": null
+    },
+    {
+      "time": 1748977101095,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 65,
+          "b": false,
+          "s": "20000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617057357,
+      "hash": "0x47041c9643e90310f3bd0424c78c4d02012c00984a4f4c5ed2c1a6995dcfc600",
+      "error": "Exceeded max number of active TWAP orders."
+    },
+    {
+      "time": 1748977022978,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 98,
+          "b": true,
+          "s": "10000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617056358,
+      "hash": "0x70d4c04993d39c0f36dd0424c7886602028f00e644603dfaf54828340e0d4b4d",
+      "error": null
+    },
+    {
+      "time": 1748976948461,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 66,
+          "b": true,
+          "s": "5000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617055400,
+      "hash": "0xc14104b9ecfeeb67c3330424c784a802017a005d6296db92037e17a830e8d357",
+      "error": null
+    },
+    {
+      "time": 1748976893526,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 128,
+          "b": false,
+          "s": "15000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617054716,
+      "hash": "0xc459df334eb56611efa20424c781fc0201e90064d5e32d7590c75ca3a5fc2331",
+      "error": null
+    },
+    {
+      "time": 1748976817445,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 39,
+          "b": false,
+          "s": "2000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617053694,
+      "hash": "0xec7cd9224a9c675fac760424c77dfe01fd00332ee294962074ad8fdced35ca66",
+      "error": null
+    },
+    {
+      "time": 1748976765504,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 27,
+          "b": false,
+          "s": "3000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617053025,
+      "hash": "0xd57b06b66e5cf4d45ff00424c77b610202b5004174921f2854b8c5e9df973a66",
+      "error": null
+    },
+    {
+      "time": 1748976708060,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": false,
+          "s": "50000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617052263,
+      "hash": "0x6a3d458e81cc2388bf1f0424c778670209b9006d1400ed6cbeaeb8d24a0728cc",
+      "error": null
+    },
+    {
+      "time": 1748976631854,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": false,
+          "s": "400",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617051254,
+      "hash": "0x6f4906b355956c02a5710424c77476018000c865ac252fab866b3e4a8028ba83",
+      "error": null
+    },
+    {
+      "time": 1748976574758,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": true,
+          "s": "500000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617050529,
+      "hash": "0x1ad17ee7fe9e4c8988b60424c771a10149008f0547897a0de6bcedfb9dcd3462",
+      "error": null
+    },
+    {
+      "time": 1748976467792,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": true,
+          "s": "40000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617049145,
+      "hash": "0xeead242cce47d689119d0424c76c3902014600fb6f009d49bc9aba027c957a19",
+      "error": null
+    },
+    {
+      "time": 1748976355300,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": false,
+          "s": "380000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 617047665,
+      "hash": "0xc2172cab1cdee23c9a620424c7667101dd00e5b6e818c18dd9af63a67042503e",
+      "error": null
+    },
+    {
+      "time": 1748962602281,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 40,
+          "b": false,
+          "s": "40000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 616870613,
+      "hash": "0xb5a42aa0f7894c6e54710424c4b2d502030500ddbeb08e764229daca7c4fdf3b",
+      "error": null
+    },
+    {
+      "time": 1748962473072,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": true,
+          "s": "30000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 616868941,
+      "hash": "0xa682b13939135f70b87a0424c4ac4d02021500bbe91e8ea7d846757aa4ee227e",
+      "error": null
+    },
+    {
+      "time": 1748962325731,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": true,
+          "s": "179573",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 616866979,
+      "hash": "0x1f058491518a0e9ba99f0424c4a4a302044d00918b7109bbc2f67405e61fb489",
+      "error": null
+    },
+    {
+      "time": 1748962314529,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapCancel",
+        "a": 119,
+        "t": 753105
+      },
+      "block": 616866835,
+      "hash": "0x7a10f1fe0e03b22a60300424c4a413019f00795006713814d1569e9e9ae88a29",
+      "error": null
+    },
+    {
+      "time": 1748962309020,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": true,
+          "s": "180000",
+          "r": false,
+          "m": 210,
+          "t": false
+        }
+      },
+      "block": 616866765,
+      "hash": "0x01cd4fee4a86e9de108e0424c4a3cd0206830007018b9f84e5daa6c5332a689c",
+      "error": null
+    },
+    {
+      "time": 1748961701958,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 616858946,
+      "hash": "0xe3bbf22d7e7790c9194d0424c4854202012700bfa38611248c2ad6bb4f3c5c64",
+      "error": null
+    },
+    {
+      "time": 1748961640106,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapCancel",
+        "a": 10162,
+        "t": 753072
+      },
+      "block": 616858201,
+      "hash": "0x485d4d07e662716390e10424c4825901f800d8792c596a885be1415de4a456cc",
+      "error": null
+    },
+    {
+      "time": 1748961627045,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 616858029,
+      "hash": "0xf4a443fe04c3ab8311f40424c481ad02030c00d74bb2c2cbf8c78f782fe94946",
+      "error": null
+    },
+    {
+      "time": 1748961438610,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x72aea4d3f825cfdb08617c0f60e36eccb256e925",
+        "agentName": null,
+        "nonce": 1748961427618
+      },
+      "block": 616855638,
+      "hash": "0x148458b22d37186577130424c478560207290055377877020d2de4fe283f05c9",
+      "error": null
+    },
+    {
+      "time": 1748945893396,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 360,
+          "t": false
+        }
+      },
+      "block": 616654523,
+      "hash": "0x46180c59407c9b74d6d50424c166bb0201b2009717ef32f33e41e2c685e3c1e0",
+      "error": null
+    },
+    {
+      "time": 1748941281986,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapCancel",
+        "a": 10162,
+        "t": 752292
+      },
+      "block": 616594657,
+      "hash": "0x4db8eb5ded70dcb4e4a30424c07ce1015e00a94b6a2c667f12ca275be8326184",
+      "error": null
+    },
+    {
+      "time": 1748941060998,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": true,
+          "s": "40000",
+          "r": false,
+          "m": 360,
+          "t": false
+        }
+      },
+      "block": 616591812,
+      "hash": "0xd72780cfc8a14af86f7f0424c071c40202780033c0974a15e9492e868d722e54",
+      "error": null
+    },
+    {
+      "time": 1748940361326,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 10162,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 180,
+          "t": false
+        }
+      },
+      "block": 616582653,
+      "hash": "0xe2495853e4af7afa1b6d0424c04dfd0202f60096a36a3f1b72846e8d2b3cf3f3",
+      "error": null
+    },
+    {
+      "time": 1748940098524,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "300000",
+        "time": 1748940087669
+      },
+      "block": 616579246,
+      "hash": "0x5c32cd03fb514360ef470424c040ae02039800d466735212721a9bf2c18d4d76",
+      "error": null
+    },
+    {
+      "time": 1748940073907,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "300000",
+        "toPerp": true,
+        "nonce": 1748940062816
+      },
+      "block": 616578944,
+      "hash": "0x030510a3120f7e83cfb70424c03f800201e500d711e32e8d042221ae4f131a72",
+      "error": null
+    },
+    {
+      "time": 1748852401893,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "400000",
+        "time": 1748852391818
+      },
+      "block": 615447463,
+      "hash": "0x8ede35fe27cd397ce9ed0424aefba7017f00a618e8ed0198a0a6c9dc07be71c8",
+      "error": null
+    },
+    {
+      "time": 1748852291357,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "150000",
+        "toPerp": true,
+        "nonce": 1748852279900
+      },
+      "block": 615446076,
+      "hash": "0xac2485e6a82b8328c5600424aef63c01e300363437b50bfe7ffe5e6236c802f1",
+      "error": null
+    },
+    {
+      "time": 1748850602328,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "250000",
+        "time": 1748850589155
+      },
+      "block": 615424489,
+      "hash": "0x4d4d293db1aeebd574310424aea1e902010e00d5849bd8415290bd8b0416ce63",
+      "error": null
+    },
+    {
+      "time": 1748850558644,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "500000",
+        "toPerp": true,
+        "nonce": 1748850543406
+      },
+      "block": 615423913,
+      "hash": "0x14a679709d6bc1f022810424ae9fa901c800878376956afdd39495e34075f74d",
+      "error": null
+    },
+    {
+      "time": 1748850510630,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "withdraw3",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+        "amount": "350000",
+        "time": 1748850496106
+      },
+      "block": 615423288,
+      "hash": "0xd46e436d3892a78807350424ae9d3802036d00f47bccd529ced0f07fcd4579b7",
+      "error": null
+    },
+    {
+      "time": 1748850450707,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "350000",
+        "toPerp": true,
+        "nonce": 1748850432907
+      },
+      "block": 615422504,
+      "hash": "0xe2ca29ec71a5bceb48760424ae9a28020188001ad4954bdd90a44b285c279133",
+      "error": null
+    },
+    {
+      "time": 1748618118409,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 74,
+          "b": true,
+          "s": "1500",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612474411,
+      "hash": "0xff4d47daca843697ea730424819e2b0202dc0087500e8551fd22375dd5785fe0",
+      "error": null
+    },
+    {
+      "time": 1748618069350,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": false,
+          "s": "200000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612473768,
+      "hash": "0x3179cefd1b3681dab2200424819ba802031600466ba80f09fe5d09e2b0be3477",
+      "error": null
+    },
+    {
+      "time": 1748617994994,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 70,
+          "b": false,
+          "s": "1000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612472806,
+      "hash": "0xeb66a3af713b5ed3a1d904248197e602048b0019323e816416425ed73557d599",
+      "error": null
+    },
+    {
+      "time": 1748617909276,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": false,
+          "s": "300000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612471728,
+      "hash": "0x4af959b8eb1f18e461fd04248193b002036b0087b8c3d0f64bc0249dc7cbd1ce",
+      "error": null
+    },
+    {
+      "time": 1748617813879,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612470565,
+      "hash": "0x72a3d55c8342e4e155c70424818f2502023c00b237cdd38d69e79974be796992",
+      "error": null
+    },
+    {
+      "time": 1748617284276,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 128,
+            "b": true,
+            "p": "0.41614",
+            "s": "5000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612463763,
+      "hash": "0x3c741443aa7343e7949e04248174930201440024af979e164f08d133efbd3f8e",
+      "error": null
+    },
+    {
+      "time": 1748617281822,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 128,
+            "b": true,
+            "p": "0.41626",
+            "s": "5000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612463732,
+      "hash": "0x8148533acc3cbfe2dd2c042481747402029c009e162f94899a1ce99bfc72a918",
+      "error": null
+    },
+    {
+      "time": 1748617279108,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 128,
+            "b": true,
+            "p": "0.41612",
+            "s": "5000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612463692,
+      "hash": "0x045d32f9b9555b20439c042481744c02012f001d2b239b35e91b2e7f467ad563",
+      "error": null
+    },
+    {
+      "time": 1748617276950,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 128,
+            "b": true,
+            "p": "0.41562",
+            "s": "5000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612463663,
+      "hash": "0x61da67e5331a038b8e21042481742f0206bf005c2e9c2d1280d5faf837cc6d26",
+      "error": null
+    },
+    {
+      "time": 1748617268327,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 128,
+            "b": true,
+            "p": "0.41526",
+            "s": "6000",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612463563,
+      "hash": "0x7c37f670f5c60d65977104248173cb02032a005fe7474a1416dba3ca197ee424",
+      "error": null
+    },
+    {
+      "time": 1748616937424,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 128,
+          "b": true,
+          "s": "199000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612459295,
+      "hash": "0xdd594004dbf4e4ca2cf9042481631f02030200b6953ecbd1fc3d9d9fc06dd95c",
+      "error": null
+    },
+    {
+      "time": 1748616785831,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": false,
+          "s": "420",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612457393,
+      "hash": "0x0ee714671a6578af36bd0424815bb102033a00a9959e928fca56365ef16604f8",
+      "error": null
+    },
+    {
+      "time": 1748616713840,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 183,
+          "b": true,
+          "s": "2000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612456437,
+      "hash": "0x89a65e9ace1aedab3c5204248157f50201c1008c4033db8db98da3a2bc28b21f",
+      "error": null
+    },
+    {
+      "time": 1748616649384,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 172,
+          "b": true,
+          "s": "20000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612455603,
+      "hash": "0x7541967364c51ef3090704248154b3020474003ac4a3bec9e70be95770ce8b45",
+      "error": null
+    },
+    {
+      "time": 1748616566872,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 74,
+          "b": true,
+          "s": "3500",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612454561,
+      "hash": "0xf22a849e1a2dc9ff2f8104248150a1020242002219eb1f0af1658a24af45e0de",
+      "error": null
+    },
+    {
+      "time": 1748616523167,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": true,
+          "s": "35000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612453995,
+      "hash": "0x371bc29512449866aaa80424814e6b0205eb0041fa6a2e401737fe61c7253d46",
+      "error": null
+    },
+    {
+      "time": 1748616472461,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 166,
+            "b": true,
+            "p": "0.26399",
+            "s": "10909",
+            "r": true,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612453361,
+      "hash": "0xd243c14aa470d35c4f060424814bf102020c00c8742509d74d748684f6e6d43d",
+      "error": null
+    },
+    {
+      "time": 1748616455637,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapCancel",
+        "a": 166,
+        "t": 741638
+      },
+      "block": 612453145,
+      "hash": "0x56bda431753d4c987cdc0424814b1902051b0091cce55c9bc4ac6a80b65523ee",
+      "error": null
+    },
+    {
+      "time": 1748616388471,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 166,
+          "b": false,
+          "s": "40000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612452302,
+      "hash": "0xcc860178c826c9ecd04804248147ce02012e00626f2dbcc7b439f1420638f87a",
+      "error": null
+    },
+    {
+      "time": 1748616316576,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 128,
+          "b": false,
+          "s": "250000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612451414,
+      "hash": "0x65d2911bcb735ceda90a0424814456020256000e618be49b32aea64dee151723",
+      "error": null
+    },
+    {
+      "time": 1748616279599,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": false,
+          "s": "520000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612450933,
+      "hash": "0x9b1c5129e9ef4395942c04248142750207da00b1a887743e13085ec5ba6816fd",
+      "error": null
+    },
+    {
+      "time": 1748616235578,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": false,
+          "s": "700000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612450404,
+      "hash": "0x24556a761986b7284bd70424814064020bbd00ebd230953bade2e2af3ed75b66",
+      "error": null
+    },
+    {
+      "time": 1748616175304,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 70,
+          "b": false,
+          "s": "2000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612449664,
+      "hash": "0x91ef8c9b46c9762195bf0424813d80020125006b4816cca27299ebc487606e12",
+      "error": null
+    },
+    {
+      "time": 1748616111034,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": true,
+          "s": "80000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612448859,
+      "hash": "0xcf8085cbbd802aa32c740424813a5b02020100b3e7617bda92661a31a510b413",
+      "error": null
+    },
+    {
+      "time": 1748615687725,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "250000",
+        "toPerp": true,
+        "nonce": 1748615667525
+      },
+      "block": 612443538,
+      "hash": "0xb8ce739be13981d9bbac042481259201cd00215c14defc1e364d4bf840f77960",
+      "error": null
+    },
+    {
+      "time": 1748615463040,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 6,
+          "b": false,
+          "s": "220",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612440703,
+      "hash": "0xce2fdc565d25d2b5a5530424811a7f02078b00a0a91385f99fb56f3d22928c82",
+      "error": null
+    },
+    {
+      "time": 1748615410759,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 128,
+          "b": false,
+          "s": "13000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612440040,
+      "hash": "0xd0cf4da9b83ed2b508f704248117e80203c4003164bc2020c308c0ad97278627",
+      "error": null
+    },
+    {
+      "time": 1748615346507,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 85,
+          "b": false,
+          "s": "290000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612439271,
+      "hash": "0x40f09e85eaccaeb79b0e04248114e702069c00dad98782c598ed17ba85fdb6ed",
+      "error": null
+    },
+    {
+      "time": 1748615277228,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 70,
+          "b": false,
+          "s": "1200",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612438389,
+      "hash": "0x159aa333c72726fddcb8042481117502021b0057b6d9a6cd78348cbcc2cd6d71",
+      "error": null
+    },
+    {
+      "time": 1748615224246,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 38,
+          "b": false,
+          "s": "380000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612437743,
+      "hash": "0x9139884b9bf826ea04b20424810eef02027b0026c0c746b4e2a8d16906fcc834",
+      "error": null
+    },
+    {
+      "time": 1748615167497,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 172,
+          "b": true,
+          "s": "10000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612437030,
+      "hash": "0xb3c853295509f60f30560424810c2602050d0081f90e75d8d816dfbde55894d5",
+      "error": null
+    },
+    {
+      "time": 1748615110731,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 16,
+          "b": true,
+          "s": "7300",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612436340,
+      "hash": "0xf7a8820ae2773e1b2cea0424810974020357008ea721a42f4250bc1f71ddf63b",
+      "error": null
+    },
+    {
+      "time": 1748615032793,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 116,
+          "b": true,
+          "s": "12.5",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612435342,
+      "hash": "0x928d502f3eb98df4a5b5042481058e0202e40050458dd68a58cca2dfe1a66d07",
+      "error": null
+    },
+    {
+      "time": 1748614984247,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 119,
+          "b": true,
+          "s": "50000",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612434715,
+      "hash": "0x70ace9340e6601ddca91042481031b0205e2009c702b29e409161a7577404de5",
+      "error": null
+    },
+    {
+      "time": 1748614915336,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "twapOrder",
+        "twap": {
+          "a": 183,
+          "b": true,
+          "s": "1250",
+          "r": false,
+          "m": 5,
+          "t": false
+        }
+      },
+      "block": 612433865,
+      "hash": "0x983b8231906c0bb208e9042480ffc90202f40000323ffddde5c6c8279153e8a8",
+      "error": null
+    },
+    {
+      "time": 1748614854598,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "amount": "150000",
+        "toPerp": true,
+        "nonce": 1748614808589
+      },
+      "block": 612433126,
+      "hash": "0x78bfa5071b88303b7d45042480fce602023700dc1a63dc4392236ed61ce371ca",
+      "error": null
+    },
+    {
+      "time": 1748614148685,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580e0b94a79e2cadebb30d06adfb710c08194458",
+        "token": "USDC:0x6d1e7cde53ba9467b783cb7c530ce054",
+        "amount": "500000",
+        "time": 1748614130021
+      },
+      "block": 612424298,
+      "hash": "0x652b6febfd90243b81f3042480da6a01f0000162cb316b6ef37b271c6e1fa4c1",
+      "error": null
+    },
+    {
+      "time": 1748613376555,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x580e0b94a79e2cadebb30d06adfb710c08194458",
+        "token": "USDC:0x6d1e7cde53ba9467b783cb7c530ce054",
+        "amount": "250000",
+        "time": 1748613343238
+      },
+      "block": 612414753,
+      "hash": "0xae4a3d3d6b7649dbd2d2042480b5210160007e35c91fa5f8fdc3d76ced35cd46",
+      "error": null
+    },
+    {
+      "time": 1748613188840,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x17b80bb3c66f9d1550db8f207273c261c81274e3",
+        "agentName": null,
+        "nonce": 1748613082237
+      },
+      "block": 612412401,
+      "hash": "0x1b8d3815e5b3dc5bf686042480abf1020431005ca8a66b29cb0a173d86aadfa1",
+      "error": null
+    },
+    {
+      "time": 1748612172668,
+      "user": "0x580809c0dfe56287e933f99e347cd5385a645ee3",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": false,
+            "p": "29.973",
+            "s": "250.12",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 612399661,
+      "hash": "0x55c1f9d89376729c65540424807a2d02048400aaaba70cbb9586582781adec03",
+      "error": null
+    }
+  ]
+}

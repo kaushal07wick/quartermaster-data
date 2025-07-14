@@ -1,0 +1,406 @@
+{
+  "0x43e9abea1910387c4292bca4b94de81462f8a251": {
+    "net_staked": 240669024.787884,
+    "delegation_rewards": 2819024.777884
+  },
+  "0xd57ecca444a9acb7208d286be439de12dd09de5d": {
+    "net_staked": 60171417.19182,
+    "delegation_rewards": 705419.19182
+  },
+  "0xfefefefefefefefefefefefefefefefefefefefe": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x2222222222222222222222222222222222222222": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x77c3ea550d2da44b120e55071f57a108f8dd5e45": {
+    "net_staked": 11363738.997312,
+    "delegation_rewards": 60993.544199
+  },
+  "0x716bd8d3337972db99995dda5c4b34d954a61d95": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x9794bbbc222b6b93c1417d01aa1ff06d42e5333b": {
+    "net_staked": 3009394.61371,
+    "delegation_rewards": 40748.89041
+  },
+  "0xfae95f601f3a25ace60d19dbb929f2a5c57e3571": {
+    "net_staked": 3354763.639604,
+    "delegation_rewards": 5751.267304
+  },
+  "0xa20fcfa0507fe762011962cc581b95bbbc3bbdba": {
+    "net_staked": 3035569.566285,
+    "delegation_rewards": 35566.022844
+  },
+  "0x51156f7002c4f74f4956c9e0f2b7bfb6e9dbfac2": {
+    "net_staked": 2408045.985244,
+    "delegation_rewards": 28061.927564
+  },
+  "0xfdc5a81605d8b926947d2e865f74025dd53ac314": {
+    "net_staked": 2383724.293018,
+    "delegation_rewards": 2342.213618
+  },
+  "0xa350d83fdcc7ac81dfaedea1a87108401ccb015f": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x0d0707963952f2fba59dd06f2b425ace40b492fe": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xc4ff1b50648213bdb064bea8c9e25bfa0606f93a": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x7f0269d7438a27811e6fa0fc33b51a79ea79be9e": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xbde2ddc49a2e6827300faa6afc93d572114a60b1": {
+    "net_staked": 1694330.849539,
+    "delegation_rewards": 22422.729064
+  },
+  "0xcfdb74a8c080bb7b4360ed6fe21f895c653efff4": {
+    "net_staked": 1324643.008491,
+    "delegation_rewards": 14723.008491
+  },
+  "0xbdfa4f4492dd7b7cf211209c4791af8d52bf5c50": {
+    "net_staked": 1112620.162249,
+    "delegation_rewards": 18089.552269
+  },
+  "0x493db0ed7514c975e9abcc110bd40c473b6763e3": {
+    "net_staked": 151745.925363,
+    "delegation_rewards": 1745.925363
+  },
+  "0x4e14fc11f58b64740e66e4b1aa188a4b007c0eab": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x5b5d51203a0f9079f8aeb098a6523a13f298c060": {
+    "net_staked": 1264534.961432,
+    "delegation_rewards": 2740.059148
+  },
+  "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xb2833d8822baa7b4e6418c0d891ec94db31adf5a": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xd22fd233a6ed7b6a19c659fb4f05fefa4f0c7043": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x656c8da58d738295e03550796dd83900aa7c6525": {
+    "net_staked": 1201174.908096,
+    "delegation_rewards": 14730.327296
+  },
+  "0xc764acfc6724434fb7a76f1c09db9b42481a443c": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x4a207d289fd49e60502451099771127bcf35b961": {
+    "net_staked": 500097.401698,
+    "delegation_rewards": 8942.147622
+  },
+  "0x03b9a189e2480d1e4c3007080b29f362282130fa": {
+    "net_staked": 957481.268198,
+    "delegation_rewards": 9481.268198
+  },
+  "0x7dacca323e44f168494c779bb5e7483c468ef410": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x82d8dc80190e6bc1d92b048f9fc7e85e5e1e32ff": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x1419e75330c71ce463102e6a1eb62fe80b412d5f": {
+    "net_staked": 657078.415574,
+    "delegation_rewards": 7078.415574
+  },
+  "0x470acb23c5cf667e12e9d1cf6d53c9b203f4db90": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x89453000afe81a8843ae2d1c5df0f340f8800779": {
+    "net_staked": 801008.310061,
+    "delegation_rewards": 7445.310061
+  },
+  "0x37ba55978b3add5e61c3cf1cdfe445c0d55482dd": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x992ec71207c9e183e64c81461908f1a1a783af6a": {
+    "net_staked": 300293.727,
+    "delegation_rewards": 293.727
+  },
+  "0xe06a3c8d7eedc8c907a0bba434804288a6f7cd24": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xeb995c082dd1249fde261fa7c0b1c0a04fda86c9": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x0e8bf301805df4e6ba7151297e5f7dfedc1eaab9": {
+    "net_staked": 825765.205579,
+    "delegation_rewards": 9863.171804
+  },
+  "0xcf9bfaf7e7ed48d85f2487b8fed07852a5e93ad1": {
+    "net_staked": 502372.045295,
+    "delegation_rewards": 4902.045295
+  },
+  "0x13c50dcdee4bbcba71baf578b345cdd35c7928be": {
+    "net_staked": 680775.588391,
+    "delegation_rewards": 10804.572435
+  },
+  "0xa23190045c4aebeb724844ce622465475e539bae": {
+    "net_staked": 720840.03185,
+    "delegation_rewards": 7533.344993
+  },
+  "0xc59498175d6d317642aeb97f895a7ce1aa992191": {
+    "net_staked": 1.4e-05,
+    "delegation_rewards": 4521.225774
+  },
+  "0x99967871e6c4f9a5185abc57edede9e9540191f6": {
+    "net_staked": 101097.702696,
+    "delegation_rewards": 1097.702696
+  },
+  "0xffe664491482ae9db6ba9e55c2ed1ea55c700a52": {
+    "net_staked": 657823.735876,
+    "delegation_rewards": 6157.735876
+  },
+  "0xad6b6913aa3e3071910a4d53a5c88dc01bade4a4": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00": {
+    "net_staked": 252501.953484,
+    "delegation_rewards": 1501.953485
+  },
+  "0xe36eebf15b7b5042d86885641f5b040a8d07ae18": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xbee95bb47bc4e28bb1fd489a2d0f873fe59172ad": {
+    "net_staked": 594547.877852,
+    "delegation_rewards": 4697.877852
+  },
+  "0x3e3868f5e6fd1b2c2b91b234436b46c0a5b1140c": {
+    "net_staked": 593480.433097,
+    "delegation_rewards": 5555.433097
+  },
+  "0x14a872e2564aa6e4ce108cdb427dbac794590016": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x67fe021a7e9c8af558d3714e7bc6fa544da6cad4": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xcdf9a0cc8174dba1019e4c176c0a179f1d4d1ad3": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xb9a2bc88d22e82628acdb2a86fc297a038b3158e": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xaf297dec752c909092a117a932a8ca4aaaff9795": {
+    "net_staked": 503279.672176,
+    "delegation_rewards": 5359.794997
+  },
+  "0x0f991873aab3e14191978946d48f30f624ae9867": {
+    "net_staked": 500378.579482,
+    "delegation_rewards": 6397.893209
+  },
+  "0xcd1a5fb7c3a5ad2a13fce54853b3c3a01396e525": {
+    "net_staked": 542868.157785,
+    "delegation_rewards": 6156.157785
+  },
+  "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xf02021e26e0bbfef8ffa2cc9cb64305a8ae465b4": {
+    "net_staked": 537828.517393,
+    "delegation_rewards": 6049.775423
+  },
+  "0x091144e651b334341eabdbbbfed644ad0100023e": {
+    "net_staked": 529018.080074,
+    "delegation_rewards": 392.437923
+  },
+  "0x1da722cfa8b0dfda57cf8d787689039c7a63f049": {
+    "net_staked": 526197.513313,
+    "delegation_rewards": 7004.674053
+  },
+  "0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xbf49647d017805fcc576ac10f33a788e636f4258": {
+    "net_staked": 515029.38647,
+    "delegation_rewards": 5204.115151
+  },
+  "0xaefcc9cacbe0e41978bef1818358f471848de9cb": {
+    "net_staked": 509867.612563,
+    "delegation_rewards": 3537.809943
+  },
+  "0xd9225c2b6383f6e532c01c34d7588b1106b9e30b": {
+    "net_staked": 505859.334947,
+    "delegation_rewards": 5733.265747
+  },
+  "0xa2ce501d9c0c5e23d34272f84402cfb7835b3126": {
+    "net_staked": 504473.098712,
+    "delegation_rewards": 4473.098712
+  },
+  "0x0aadc54a9e78cfe2e971aa8edcedea9c6df01f46": {
+    "net_staked": 502501.964641,
+    "delegation_rewards": 6169.674988
+  },
+  "0x0e41eb80e9a39ae7b887a94f6a88f6c791e26359": {
+    "net_staked": 351867.243699,
+    "delegation_rewards": 1866.242269
+  },
+  "0x18ed0f81334d32027da587f92eab8c53a87eacbd": {
+    "net_staked": 500551.495233,
+    "delegation_rewards": 363.662453
+  },
+  "0x372c7f69d0ecc14f73f89bd8a7dfb41bdf29857c": {
+    "net_staked": 500155.356627,
+    "delegation_rewards": 1082.982275
+  },
+  "0xa9ff08af55b24bb5d064d776a078e8a292b8dfe2": {
+    "net_staked": 489497.921993,
+    "delegation_rewards": 3503.113328
+  },
+  "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36": {
+    "net_staked": 461233.711276,
+    "delegation_rewards": 838.042731
+  },
+  "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66": {
+    "net_staked": 298980.545888,
+    "delegation_rewards": 3980.545888
+  },
+  "0xb952a94e9a9a63b393946dea15e1d86d22656331": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x9f3b90f03dbe29c31ed1d05d7f6515248b9de2cf": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x34a15fb11242f63765bcaf05a5925dcb407770a2": {
+    "net_staked": 458084.022329,
+    "delegation_rewards": 162.691029
+  },
+  "0xe867fbdad3291530e41530301ecb77693850c78e": {
+    "net_staked": 445534.572566,
+    "delegation_rewards": 1831.195121
+  },
+  "0x156115e100141e9330620c253225cc5ee598a31a": {
+    "net_staked": 103705.067017,
+    "delegation_rewards": 3705.067017
+  },
+  "0x9abe126127818c6440db88cf32a222e47193e0b0": {
+    "net_staked": 437590.03378,
+    "delegation_rewards": 5082.21502
+  },
+  "0x807a2e2e469df84b299da5f90f15dda4380daca1": {
+    "net_staked": 265202.686488,
+    "delegation_rewards": 2852.686488
+  },
+  "0x9e875bd28ee5001478c16cb0c8329116a3c3e816": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xa69e24a291687a7cc0bb1d8bc09ba74e667d4d9e": {
+    "net_staked": 227631.718016,
+    "delegation_rewards": 2754.340346
+  },
+  "0x97f8219e401f07752a60ddb0a75efda96d1389d9": {
+    "net_staked": 0.0,
+    "delegation_rewards": 2344.093514
+  },
+  "0x518c447fa619f07e720a97a745e630c40b36083e": {
+    "net_staked": 406640.999697,
+    "delegation_rewards": 4635.397237
+  },
+  "0x8196e0648cb16e9151c2920618a58605706b5836": {
+    "net_staked": 404582.542183,
+    "delegation_rewards": 4582.542183
+  },
+  "0xdaaeb593f0ca48772902be38a8a3928917dc97df": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xf517639a8872e756ac98d3c65507d2ebc25cc032": {
+    "net_staked": 391316.463781,
+    "delegation_rewards": 4053.463781
+  },
+  "0x0cbf655b0d22ae71fba3a674b0e1c0c7e7f975af": {
+    "net_staked": 390328.885833,
+    "delegation_rewards": 3579.758521
+  },
+  "0x00f5da329d61371ffa39680b4d226bcba46e406e": {
+    "net_staked": 385953.881479,
+    "delegation_rewards": 4399.579868
+  },
+  "0x2058bcf5cecbac4ac91393fe18655ea338979797": {
+    "net_staked": 384911.657671,
+    "delegation_rewards": 4388.861981
+  },
+  "0x25cd302e37a69d70a6ef645daea5a7de38c66e2a": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x03b3e2069830dd3bd1a5b5e45dad60a770227ed7": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xa87a233e8a7d8951ff790a2e39738086cb5f71b7": {
+    "net_staked": 101165.639025,
+    "delegation_rewards": 1165.639025
+  },
+  "0xa57e1325a11e30c6918573300d73e8142e17f1bd": {
+    "net_staked": 282028.982675,
+    "delegation_rewards": 1667.583349
+  },
+  "0xee5c571813227fe7bbeef6fdd9f3e0592aca4799": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0xea8f34a15f523523728291aa7ac4d758da013dc1": {
+    "net_staked": 354100.093747,
+    "delegation_rewards": 4059.559807
+  },
+  "0xeaf97d4ac9d2cdd09df78d00fe9015aa27267af8": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x0b40f443a5db715151848d9f556a8c644feb8474": {
+    "net_staked": 0.0,
+    "delegation_rewards": 0
+  },
+  "0x7be1cba648ebe1ab8084244d23f28d68a86480d8": {
+    "net_staked": 100364.744392,
+    "delegation_rewards": 364.744392
+  },
+  "0xa0d66bab5f04cb3055cc2f6b0494cb33be32c2c2": {
+    "net_staked": 201926.200329,
+    "delegation_rewards": 1927.625154
+  },
+  "0x8bff50aad8b4e06c5e148eaeb9d7aef69e26cdc3": {
+    "net_staked": 245459.381119,
+    "delegation_rewards": 1576.563083
+  },
+  "0x3c238634776662eae51dbb98ff7b624eb4cb5789": {
+    "net_staked": 343975.918786,
+    "delegation_rewards": 3920.950176
+  }
+}

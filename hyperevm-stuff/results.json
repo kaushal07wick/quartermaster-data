@@ -1,0 +1,52 @@
+{
+  "current_total_supply": {
+    "status": "1",
+    "message": "OK",
+    "result": "67120920174157"
+  },
+  "current_token_balance": {
+    "status": "1",
+    "message": "OK",
+    "result": "0"
+  },
+  "historical_total_supply": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "historical_token_balance": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "token_holder_list": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "token_holder_count": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "token_info": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "erc20_holdings": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "erc721_holdings": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  },
+  "erc721_inventory": {
+    "status": "0",
+    "message": "NOTOK",
+    "result": "Sorry, it looks like you are trying to access an API Pro endpoint. Contact us to upgrade to API Pro."
+  }
+}

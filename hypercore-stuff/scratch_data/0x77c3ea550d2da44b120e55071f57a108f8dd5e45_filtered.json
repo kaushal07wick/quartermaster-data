@@ -1,0 +1,2448 @@
+{
+  "type": "userDetails",
+  "txs": [
+    {
+      "time": 1751785377774,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 653120382,
+      "hash": "0x3c65efb1aa6c680c23c20426edd37e01b3007bdedff798379c9e4949a7097c52",
+      "error": null
+    },
+    {
+      "time": 1751785372106,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 653120312,
+      "hash": "0x757ebbb4c239b3737ca20426edd33801cb004e4297ff96400e2d41d8eb957800",
+      "error": null
+    },
+    {
+      "time": 1751785032958,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 653116042,
+      "hash": "0x926855f8e185fe22b1ae0426edc28a0127008c7442f4378a9c6e321c2877a555",
+      "error": null
+    },
+    {
+      "time": 1751785004295,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x2222222222222222222222222222222222222222",
+        "token": "HYPE:0x0d01dc56dcaaca66ad901c959b4011ec",
+        "amount": "0.99958587",
+        "time": 1751784994856
+      },
+      "block": 653115675,
+      "hash": "0xabdc5d4afce1c4a482b50426edc11b012700bce9bb5396391f7a33e67bd87e3a",
+      "error": null
+    },
+    {
+      "time": 1751784992576,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "42.052",
+            "s": "1",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 653115522,
+      "hash": "0x3429a2b8b1b76b54960b0426edc082020269000f1abf70ce63c9809d9c985aa4",
+      "error": null
+    },
+    {
+      "time": 1751784987090,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xae22bd3a71c4a17a291cb42fbad44dc1b63efe60",
+        "agentName": null,
+        "nonce": 1751784978100
+      },
+      "block": 653115451,
+      "hash": "0x6401377a39b3d4c2c89f0426edc03b01080079753f48fb75f9e44cb10cc72bff",
+      "error": null
+    },
+    {
+      "time": 1751784942669,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 653114872,
+      "hash": "0xb84f418043db0dacd2bc0426edbdf8014400bdf72c8af306bf76c7a5aa31a703",
+      "error": null
+    },
+    {
+      "time": 1751784829652,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 653113468,
+      "hash": "0x0b6479c7ad0f4140a1970426edb87c014300a4c65b732ac80de6474b2c8ca020",
+      "error": null
+    },
+    {
+      "time": 1751784796967,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x40b6c2887315c06770cd01f2e4bbeecbecd7bcea",
+        "agentName": "bigblock valid_until 1760424787423",
+        "nonce": 1751784785737
+      },
+      "block": 653113035,
+      "hash": "0xcfafe9c4be700d0bcc280426edb6cb015700e2051f70454398b0d03ed4be56fe",
+      "error": "Extra agent already used."
+    },
+    {
+      "time": 1751784780814,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x40b6c2887315c06770cd01f2e4bbeecbecd7bcea",
+        "agentName": "bigblock valid_until 1760424767189",
+        "nonce": 1751784768205
+      },
+      "block": 653112832,
+      "hash": "0xdeeb2bdd6dbf8e8467c50426edb600012e00df5ea99312b0fc0eb3bd62ea3be4",
+      "error": null
+    },
+    {
+      "time": 1751612485219,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 53217052517000,
+        "isUndelegate": false,
+        "nonce": 1751612473341
+      },
+      "block": 650903722,
+      "hash": "0xacac42ddc609727a9cbf0426cc00aa02019e00a699bdb8879098e11f5a986374",
+      "error": null
+    },
+    {
+      "time": 1751612460700,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "wei": 53217052517000,
+        "nonce": 1751612443843
+      },
+      "block": 650903399,
+      "hash": "0xc9642a98476312095c990426cbff67010a00d17da9e65335779ed63af51ca246",
+      "error": null
+    },
+    {
+      "time": 1751612300893,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xf597496e9175d4773ea3aafde7fab6985cf71f74",
+        "agentName": null,
+        "nonce": 1751612285984
+      },
+      "block": 650901332,
+      "hash": "0x960bcc057a4b4ec3288e0426cbf7540130002ca26bc8c393e00f73666c92aa5b",
+      "error": null
+    },
+    {
+      "time": 1751612095475,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x9838e6b36677984116960a40110d27a8ededb503",
+        "agentName": null,
+        "nonce": 1751612084278
+      },
+      "block": 650898686,
+      "hash": "0x8d639c87eb23568057aa0426cbecfe012a00f2e496ea236f2d09e9990024d48c",
+      "error": null
+    },
+    {
+      "time": 1750659838511,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cWithdraw",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 30000000000000,
+        "nonce": 1750659825251
+      },
+      "block": 638599773,
+      "hash": "0xe187267c7e6f9ca0c0fc042610425d020111006322bd8dea0f1600e55fb88405",
+      "error": null
+    },
+    {
+      "time": 1750659824347,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 30000000000000,
+        "isUndelegate": true,
+        "nonce": 1750659811183
+      },
+      "block": 638599589,
+      "hash": "0x944334c82574b24877e804261041a50201b4002199b920e4917c091b959f4bfe",
+      "error": null
+    },
+    {
+      "time": 1750659785022,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x70c520a5edb90b04d395eab076ed67a60f6f6084",
+        "agentName": null,
+        "nonce": 1750505160748
+      },
+      "block": 638599056,
+      "hash": "0xdac6e0e36afafc2a2ea70426103f9001c00064a8140accbdfa1368db0dee3ed7",
+      "error": null
+    },
+    {
+      "time": 1750315776921,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 45935777275000,
+        "isUndelegate": false,
+        "nonce": 1750315765926
+      },
+      "block": 634216847,
+      "hash": "0x034e9f499bcc8a6ed4050425cd618f01f700e5270ff7db41c00ead76d7fd06ee",
+      "error": null
+    },
+    {
+      "time": 1750315763610,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 45935777275000,
+        "nonce": 1750315751227
+      },
+      "block": 634216679,
+      "hash": "0xb6aebb986abe025950ca0425cd60e7014a007028a24d13bfcd149bfd338708cb",
+      "error": null
+    },
+    {
+      "time": 1750315716707,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x31a3bdb0ec0b8791b89e3f52398498ad499a544a",
+        "agentName": null,
+        "nonce": 1750315692510
+      },
+      "block": 634216086,
+      "hash": "0xc0b3e786d9712d3b81db0425cd5e96018b0039403aa970bd88cf6734b3d85168",
+      "error": null
+    },
+    {
+      "time": 1750188104733,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+        "token": "NEKO:0x7079200f1b1511a6d344d399fb9bf984",
+        "amount": "3504.42477876",
+        "time": 1750188104487
+      },
+      "block": 632581071,
+      "hash": "0x2496d16bcd69b9e88eec0425b46bcf0201f700758db89c22ad27f4442dc2fd9a",
+      "error": null
+    },
+    {
+      "time": 1749797366472,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xf8efb4cb844a8458114994203d7b0bfe2422a288",
+        "wei": 24840324627000,
+        "isUndelegate": false,
+        "nonce": 1749797357517
+      },
+      "block": 627572157,
+      "hash": "0x4e1dff07f4d3b3bd0211042567fdbd02056e008a195cf49e1e0d7ae7a7a5a4f2",
+      "error": null
+    },
+    {
+      "time": 1749797355444,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x497beec89958848126c2ea65934ce430e1410ad2",
+        "wei": 20000000000000,
+        "isUndelegate": false,
+        "nonce": 1749797341651
+      },
+      "block": 627572032,
+      "hash": "0xe1266267b6e688202c8f042567fd400205f000a840a6613e1fcd6e9ecf12ab2b",
+      "error": null
+    },
+    {
+      "time": 1749797335930,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 44840324627000,
+        "nonce": 1749797326251
+      },
+      "block": 627571780,
+      "hash": "0xb713e4b6635b413d3de3042567fc44020130003d0e77e2407f745b646086b0c2",
+      "error": null
+    },
+    {
+      "time": 1749797304287,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x810f6c9cb961a7683d5655f6d8607026cbef8dca",
+        "agentName": null,
+        "nonce": 1749797292506
+      },
+      "block": 627571375,
+      "hash": "0x07c19a2a1de4e37c089d042567faaf02036c0068452184080da46d30e0ab0f88",
+      "error": null
+    },
+    {
+      "time": 1749011210384,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x2222222222222222222222222222222222222222",
+        "token": "HYPE:0x0d01dc56dcaaca66ad901c959b4011ec",
+        "amount": "50000.000008",
+        "time": 1749011200855
+      },
+      "block": 617495782,
+      "hash": "0x904253dc4bc34ec173320424ce3ce60133006826d1b42c5fde1b972805e084e6",
+      "error": null
+    },
+    {
+      "time": 1749011180648,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 40000000000000,
+        "isUndelegate": false,
+        "nonce": 1749011173433
+      },
+      "block": 617495412,
+      "hash": "0x057a7aa728b124b47c670424ce3b74017100923e8202e2352946f3590ebc94e0",
+      "error": null
+    },
+    {
+      "time": 1749011167041,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 40000000000000,
+        "nonce": 1749011156551
+      },
+      "block": 617495251,
+      "hash": "0xd1645febc88c64829e2a0424ce3ad30186006ac03f782d6f95700853b709f751",
+      "error": null
+    },
+    {
+      "time": 1749011152111,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x497beec89958848126c2ea65934ce430e1410ad2",
+        "wei": 40000000000000,
+        "isUndelegate": false,
+        "nonce": 1749011143417
+      },
+      "block": 617495058,
+      "hash": "0xef91018f133e01cc58d80424ce3a1202014900d4e422e39ae17c9caa5b8e0833",
+      "error": null
+    },
+    {
+      "time": 1749011138116,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 40000000000000,
+        "isUndelegate": true,
+        "nonce": 1749011120451
+      },
+      "block": 617494888,
+      "hash": "0x85a0aa63b5e60f0aa85c0424ce39680201130097daeff7ac20cf981ae5e48d7b",
+      "error": null
+    },
+    {
+      "time": 1749010997927,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x3498cddf2391e7fee28242f7652ab633e50d7b4d",
+        "agentName": null,
+        "nonce": 1749010976379
+      },
+      "block": 617493061,
+      "hash": "0x763335cb35b00e493c110424ce324501bd00723b54107c7a8996410998ac9ec6",
+      "error": null
+    },
+    {
+      "time": 1748319853843,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x497beec89958848126c2ea65934ce430e1410ad2",
+        "wei": 67983500000000,
+        "isUndelegate": false,
+        "nonce": 1748319844959
+      },
+      "block": 608620626,
+      "hash": "0x5b8d6577fdae5a6daaa1042446d05201d900a4eb86cd1273dc16255522f98eca",
+      "error": null
+    },
+    {
+      "time": 1748319842438,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 67983500000000,
+        "isUndelegate": true,
+        "nonce": 1748319806226
+      },
+      "block": 608620490,
+      "hash": "0x0eb9f7bf007dc828dccf042446cfca0201b200fbdc388bed21da09b9be219623",
+      "error": null
+    },
+    {
+      "time": 1748319539902,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cWithdraw",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 20000000000000,
+        "nonce": 1748319528651
+      },
+      "block": 608616574,
+      "hash": "0x3ebccd71ce1116cdf2a1042446c07e01b300d13b8b34a7c417cdd3f2384c2fb8",
+      "error": null
+    },
+    {
+      "time": 1748319526473,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 20000000000000,
+        "isUndelegate": true,
+        "nonce": 1748319493985
+      },
+      "block": 608616390,
+      "hash": "0x6acbf8e743bdae505bce042446bfc6018e0036a36d31743a1da08e2074361e2a",
+      "error": null
+    },
+    {
+      "time": 1748196254303,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 607020019,
+      "hash": "0x40cf2856e7ae5a0d071004242e63f301b300327e4dda20dc4b7b91c13f8d5ec3",
+      "error": null
+    },
+    {
+      "time": 1748195977230,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 607016479,
+      "hash": "0xe52f8d0a45c3c92a792d04242e561f016d0084531d324651482f29aaf3b4f21e",
+      "error": null
+    },
+    {
+      "time": 1748148009888,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 606404422,
+      "hash": "0x5a22395fca51c78a2e9b042424ff46016300e2b6b9e4f2a25b7a42ef6b4eed65",
+      "error": null
+    },
+    {
+      "time": 1748147864572,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x2222222222222222222222222222222222222222",
+        "token": "HYPE:0x0d01dc56dcaaca66ad901c959b4011ec",
+        "amount": "320000.00004",
+        "time": 1748147853655
+      },
+      "block": 606402571,
+      "hash": "0x3aec4c68b155fe6a09ab042424f80b014f00115a4769bccf76870de3529cd4a7",
+      "error": null
+    },
+    {
+      "time": 1748147841589,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cWithdraw",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 25000000000000,
+        "nonce": 1748147825917
+      },
+      "block": 606402280,
+      "hash": "0xf2f22da605a5cec660c0042424f6e80201ca0053a13d874bbe596927b240e2dd",
+      "error": null
+    },
+    {
+      "time": 1748147817020,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 25000000000000,
+        "isUndelegate": true,
+        "nonce": 1748147802888
+      },
+      "block": 606401953,
+      "hash": "0xa1f9de1ec61ea23b41a2042424f5a102027a00c208e6bfa7bd70330daf6523e7",
+      "error": null
+    },
+    {
+      "time": 1747709143675,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 1800654435900,
+        "isUndelegate": false,
+        "nonce": 1747709135325
+      },
+      "block": 600757865,
+      "hash": "0xbc18ca78baad234908e60423ced669020146003558af482bf2aaca537f57c51b",
+      "error": null
+    },
+    {
+      "time": 1747709132060,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xf8efb4cb844a8458114994203d7b0bfe2422a288",
+        "wei": 1800654435900,
+        "isUndelegate": true,
+        "nonce": 1747709117576
+      },
+      "block": 600757732,
+      "hash": "0x27fc52736e54aff1e9300423ced5e402027d004a2f567d4418e35513a5c1fa93",
+      "error": null
+    },
+    {
+      "time": 1747709086094,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 600757166,
+      "hash": "0x286753432d4f77fea3000423ced3ae020131005b0b7bc323f6f3317f3a1cdf9b",
+      "error": null
+    },
+    {
+      "time": 1747327882230,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cWithdraw",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 32000000000000,
+        "nonce": 1747327871083
+      },
+      "block": 595887558,
+      "hash": "0x6811dd09bb41fbe5cc7b04238485c6020170006e32f50d8b1efc1af292c984d5",
+      "error": null
+    },
+    {
+      "time": 1747327858347,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 32000000000000,
+        "isUndelegate": true,
+        "nonce": 1747327843132
+      },
+      "block": 595887272,
+      "hash": "0x5699644680ca96ff381804238484a802026b0096c5e6e1fdbf5a35b3c4262250",
+      "error": null
+    },
+    {
+      "time": 1747327835157,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x02f96382eae24026250b3e3a3c7cf39738473faf",
+        "agentName": null,
+        "nonce": 1747327813187
+      },
+      "block": 595886959,
+      "hash": "0xa37b1d2b37ee21f4f58f042384836f0202b700d87d678fc511f09acd674fa75f",
+      "error": null
+    },
+    {
+      "time": 1746828817956,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 589584211,
+      "hash": "0x79459dbb8c146ee4172a042324575302011d00e21e346f3366901025b0a8b0e3",
+      "error": null
+    },
+    {
+      "time": 1746828812267,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 589584147,
+      "hash": "0x53fa3cc4ea5ec59e340f042324571302059900493bcbd4408147c2ce5f85600d",
+      "error": null
+    },
+    {
+      "time": 1746828762294,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 589583546,
+      "hash": "0x8ef77118da5a73fb13df04232454ba02044b004ae6145f88e824ac8b3c4c3bf8",
+      "error": null
+    },
+    {
+      "time": 1746828741846,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 589583266,
+      "hash": "0xc234a229ecf23692d8ce04232453a20201f5000a88b3e5df8d664456549501ac",
+      "error": null
+    },
+    {
+      "time": 1746828230658,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x5c4d4aca943c6c9872e7466dac8a52b435ba77eb",
+        "agentName": "bigblock valid_until 1750716214758",
+        "nonce": 1746828214380
+      },
+      "block": 589576839,
+      "hash": "0x2f31e803b4264c62eb400423243a87020172003881f20ffc72bb9ea7e7855831",
+      "error": null
+    },
+    {
+      "time": 1746825953155,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 244896662460000,
+        "isUndelegate": false,
+        "nonce": 1746825944822
+      },
+      "block": 589548511,
+      "hash": "0x8164600cb6214e445b9e042323cbdf0139008be4ede5d55adb285f8725a696ba",
+      "error": null
+    },
+    {
+      "time": 1746825929817,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xf8efb4cb844a8458114994203d7b0bfe2422a288",
+        "wei": 1800000000000,
+        "isUndelegate": false,
+        "nonce": 1746825920021
+      },
+      "block": 589548223,
+      "hash": "0x87d4ccf35847738f4880042323cabf020121008e3015919be7a2b547d4791cea",
+      "error": null
+    },
+    {
+      "time": 1746825889360,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x15458aed3c7a49b215fbfa863c6ff550c31e1a31",
+        "wei": 12500000000000,
+        "isUndelegate": false,
+        "nonce": 1746825878737
+      },
+      "block": 589547716,
+      "hash": "0x9583ba664524d6d6f734042323c8c402021400345c8834bf52685b21d19dca8e",
+      "error": null
+    },
+    {
+      "time": 1746825833564,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 259196662460000,
+        "nonce": 1746825808968
+      },
+      "block": 589546987,
+      "hash": "0xf989e405896f20542bb4042323c5eb019800a455cbefb15ee8be638a4f320987",
+      "error": null
+    },
+    {
+      "time": 1746825375660,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x2222222222222222222222222222222222222222",
+        "token": "HYPE:0x0d01dc56dcaaca66ad901c959b4011ec",
+        "amount": "400000",
+        "time": 1746825362076
+      },
+      "block": 589541217,
+      "hash": "0x9e52aebc88e5b8edea29042323af610171001e6629f7d0563fc15be422173cea",
+      "error": null
+    },
+    {
+      "time": 1746825335699,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x482f1801c888f6746d98d7dc9b9c62be078eac58",
+        "agentName": null,
+        "nonce": 1746825321439
+      },
+      "block": 589540689,
+      "hash": "0xb377cc915f2bd7fc367d042323ad510201dc000a119f0c02e9be1e6a430437bb",
+      "error": null
+    },
+    {
+      "time": 1746159719356,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 153952331190000,
+        "isUndelegate": false,
+        "nonce": 1746159710191
+      },
+      "block": 581265544,
+      "hash": "0x9dd6fe141f65c6a4a47c0422a5688801cb00d9f5ecd787847170139d8dbd6ace",
+      "error": null
+    },
+    {
+      "time": 1746159706177,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 153952331190000,
+        "nonce": 1746159694956
+      },
+      "block": 581265396,
+      "hash": "0xde14136a044b3d44639f0422a567f401ca008de06cf1a43f7cd9c40ac0c455dc",
+      "error": null
+    },
+    {
+      "time": 1746159683522,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 581265104,
+      "hash": "0x3d6840a7ed4cdc83e26a0422a566d0020206006ea5cb7f34fba84daf101b39d1",
+      "error": null
+    },
+    {
+      "time": 1746159582204,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 581263833,
+      "hash": "0x8d5dda8c835854aaae710422a561d9017d0037297e8ddfdb9b628fa736818116",
+      "error": null
+    },
+    {
+      "time": 1746159319324,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x4b7119a9d1f236cdfaae29011f391d8413dc54ee",
+        "agentName": "big block valid_until 1746245707940",
+        "nonce": 1746159307718
+      },
+      "block": 581260605,
+      "hash": "0x885c4233dee90f0fd5ae0422a5553d01c9000b3be8f0d9f4e15eced2c1bbc901",
+      "error": null
+    },
+    {
+      "time": 1746159293942,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xf138a8efd10011b794bfabf8db13700ae022925f",
+        "agentName": "big block valid_until 1746245672391",
+        "nonce": 1746159240043
+      },
+      "block": 581260285,
+      "hash": "0x7cc993146c09322bfe490422a553fd015500a4f35868d030e43ca02721914b6e",
+      "error": null
+    },
+    {
+      "time": 1745866325412,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 133023781780000,
+        "isUndelegate": false,
+        "nonce": 1745866316221
+      },
+      "block": 577635336,
+      "hash": "0x7dc338a2524356f48e0b04226e0408016c00b66e6a213ee26238b3c9a157cc81",
+      "error": null
+    },
+    {
+      "time": 1745866309018,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 133023781780000,
+        "nonce": 1745866299644
+      },
+      "block": 577635124,
+      "hash": "0x2d860c66df5158a55be604226e033402011d00b7440ad8c55714d4298bde5851",
+      "error": null
+    },
+    {
+      "time": 1745866284945,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x776c48ee750c8023901402c16ba3b333dfce5dbe",
+        "agentName": null,
+        "nonce": 1745866271322
+      },
+      "block": 577634836,
+      "hash": "0xdbb7292e33c98ca7b78104226e021401760059a16050518c1fb267103f681778",
+      "error": null
+    },
+    {
+      "time": 1744685111752,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 77400500967000,
+        "isUndelegate": false,
+        "nonce": 1744685102297
+      },
+      "block": 563151183,
+      "hash": "0x22e71008c8d492c5071b042191014f0201720055ea568e9dcc6dc256108a3197",
+      "error": null
+    },
+    {
+      "time": 1744685084114,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 77400500967000,
+        "nonce": 1744685070256
+      },
+      "block": 563150862,
+      "hash": "0x3939825f3376b19e684a042191000e017f000a74071c7296f54f1b759986b26a",
+      "error": null
+    },
+    {
+      "time": 1744316825703,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 95569719262000,
+        "isUndelegate": false,
+        "nonce": 1744316812620
+      },
+      "block": 558598410,
+      "hash": "0xa7442102dc614442a4a704214b890a02018b00a8816c1b7dd219670b97990b1c",
+      "error": null
+    },
+    {
+      "time": 1744316810442,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 95569719262000,
+        "nonce": 1744316800853
+      },
+      "block": 558598244,
+      "hash": "0x4f5b2f07d2e205f00d7a04214b8864014600dc2ab94d38767504976c1b8f373f",
+      "error": null
+    },
+    {
+      "time": 1744316798168,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x38ddd4c227c8d25ac009bed1f73c3df79c5996de",
+        "agentName": null,
+        "nonce": 1744316787641
+      },
+      "block": 558598084,
+      "hash": "0x716adfea3740a6da04a504214b87c401a0004ec33aea795163619483efd9bbcf",
+      "error": null
+    },
+    {
+      "time": 1743971254552,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 106138896930000,
+        "isUndelegate": false,
+        "nonce": 1743971244047
+      },
+      "block": 554270557,
+      "hash": "0x1c55db6bd6e294cd2a320421097f5d01f900166bf854120834cf27babd401e8f",
+      "error": null
+    },
+    {
+      "time": 1743971240752,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 106138896930000,
+        "nonce": 1743971225698
+      },
+      "block": 554270418,
+      "hash": "0xd1c23257ece72fdcdce90421097ed201c4007a9fc7a4e6ebce76a563d6f84cee",
+      "error": null
+    },
+    {
+      "time": 1743044918575,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 54021803016000,
+        "isUndelegate": false,
+        "nonce": 1743044910038
+      },
+      "block": 542681898,
+      "hash": "0x4c6051ab1361a3ef6c9a042058ab2a01870053d3dee2c7462f45a0c64eebbe77",
+      "error": null
+    },
+    {
+      "time": 1743044907632,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 54021803016000,
+        "nonce": 1743044896738
+      },
+      "block": 542681757,
+      "hash": "0x280dbe3362c76d8a5e16042058aa9d02030200fe91e37a1e3b9bc450af32a40a",
+      "error": null
+    },
+    {
+      "time": 1743044886297,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x95dc9feaeced08ef4497b28021062e7b4bd69e90",
+        "agentName": null,
+        "nonce": 1743044876168
+      },
+      "block": 542681485,
+      "hash": "0x246e132a2819c3b015ad042058a98d020162003ea9c2099243f6420058880528",
+      "error": null
+    },
+    {
+      "time": 1742864981610,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 78825389900000,
+        "isUndelegate": false,
+        "nonce": 1742864973261
+      },
+      "block": 540418811,
+      "hash": "0xf04402ad87117446502d04203622fb01c100c240926060a20998ee758550e799",
+      "error": null
+    },
+    {
+      "time": 1742864969002,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 78825389900000,
+        "nonce": 1742864956122
+      },
+      "block": 540418635,
+      "hash": "0xb96d95c12ea1e5c92f36042036224b02020800e419a4ef60062d9a0d525ce188",
+      "error": null
+    },
+    {
+      "time": 1742226257014,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 31282401795000,
+        "isUndelegate": false,
+        "nonce": 1742226248355
+      },
+      "block": 532462142,
+      "hash": "0x7ae58b344cab53730e21041fbcba3e014600900d5fc2a30ae70475483946cec3",
+      "error": null
+    },
+    {
+      "time": 1742226232207,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 31282401795000,
+        "nonce": 1742226223162
+      },
+      "block": 532461819,
+      "hash": "0x00d5aacfa6ac21912eae041fbcb8fb0201110016c0efca99a19a7370a3db8d75",
+      "error": null
+    },
+    {
+      "time": 1741756713299,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xb8f45222a3246a2b0104696a1df26842007c5bc5",
+        "wei": 17917851224000,
+        "isUndelegate": false,
+        "nonce": 1741756703889
+      },
+      "block": 526578436,
+      "hash": "0xb83c19ebc79f000de18f041f62f304016f00d042232a3ff0a4067d35b9b599da",
+      "error": null
+    },
+    {
+      "time": 1741756700822,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 17917851224000,
+        "nonce": 1741756692017
+      },
+      "block": 526578257,
+      "hash": "0x65c33d2c02fcb7958242041f62f25101a1003ed6ed8ce1ddf0e745c3fc0677cc",
+      "error": null
+    },
+    {
+      "time": 1741756685464,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xaee12a174b2199d03f9c1bb3a3406d96ee2d3489",
+        "agentName": null,
+        "nonce": 1741756676083
+      },
+      "block": 526578061,
+      "hash": "0x4a21fa1c5d38768f7e5d041f62f18d01e3003fec42acdb23fbfd36d9a505e7c2",
+      "error": null
+    },
+    {
+      "time": 1741537838757,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xb8f45222a3246a2b0104696a1df26842007c5bc5",
+        "wei": 7500000000000,
+        "isUndelegate": false,
+        "nonce": 1741537830485
+      },
+      "block": 523817617,
+      "hash": "0x3625eb38bd6bb7fcf93a041f38d2910201cc006bfb129e0bbcf71823579a0c70",
+      "error": null
+    },
+    {
+      "time": 1741537827289,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 7500000000000,
+        "isUndelegate": true,
+        "nonce": 1741537810599
+      },
+      "block": 523817464,
+      "hash": "0x7641fc5014609f2835ff041f38d1f801f4003dd50e2ab5be18c0f2e5cf2f5a0e",
+      "error": null
+    },
+    {
+      "time": 1741537803286,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xb8f45222a3246a2b0104696a1df26842007c5bc5",
+        "wei": 16861668213000,
+        "isUndelegate": false,
+        "nonce": 1741537791218
+      },
+      "block": 523817152,
+      "hash": "0x4b03b202a4bab45e0e6f041f38d0c001c6006fc3adccfe556017b830a7cb7058",
+      "error": null
+    },
+    {
+      "time": 1741537786994,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "wei": 16861668213000,
+        "nonce": 1741537775053
+      },
+      "block": 523816942,
+      "hash": "0x0733b3f1b7f610026491041f38cfee01a1006f98aa552d4cfdc18ba1a21426e6",
+      "error": null
+    },
+    {
+      "time": 1741537738127,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "spotSend",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "destination": "0x2222222222222222222222222222222222222222",
+        "token": "HYPE:0x0d01dc56dcaaca66ad901c959b4011ec",
+        "amount": "0.99965009",
+        "time": 1741537726634
+      },
+      "block": 523816342,
+      "hash": "0x75f9f05f14bba47bdd2f041f38cd960204430048d340bc42e824cc012388106f",
+      "error": null
+    },
+    {
+      "time": 1741537724838,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "order",
+        "orders": [
+          {
+            "a": 10107,
+            "b": true,
+            "p": "16.156",
+            "s": "1",
+            "r": false,
+            "t": {
+              "limit": {
+                "tif": "FrontendMarket"
+              }
+            }
+          }
+        ],
+        "grouping": "na"
+      },
+      "block": 523816182,
+      "hash": "0x1d7f9cef772f0bf41fed041f38ccf6020240002522571d59076fa1a041b10f3c",
+      "error": null
+    },
+    {
+      "time": 1741537719995,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "usdClassTransfer",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "amount": "95",
+        "toPerp": false,
+        "nonce": 1741537706089
+      },
+      "block": 523816114,
+      "hash": "0x4359475d66af2921f463041f38ccb202014100041b6e367b4b4b3a010df6774b",
+      "error": null
+    },
+    {
+      "time": 1741401572389,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 15127548345000,
+        "isUndelegate": false,
+        "nonce": 1741401564469
+      },
+      "block": 522122160,
+      "hash": "0x7f326c49244efea6d0d6041f1ef3b0018100aef10319a9221f671258a1f077d1",
+      "error": null
+    },
+    {
+      "time": 1741401557108,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "wei": 15127548345000,
+        "nonce": 1741401543448
+      },
+      "block": 522121972,
+      "hash": "0x4558c45a6618a2cae20e041f1ef2f4016100d2e81edee2d37aa52dbdad04fb75",
+      "error": null
+    },
+    {
+      "time": 1741401185701,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x0000000000000000000000000000000000000000",
+        "agentName": "01JNSSJ4",
+        "nonce": 1741401179454
+      },
+      "block": 522117285,
+      "hash": "0x85d89b4bf8082b0d9949041f1ee0a502035d0037d316cc244f4b6453c629a1f0",
+      "error": null
+    },
+    {
+      "time": 1741401178816,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 522117204,
+      "hash": "0x36e0cea9e216c5cda50f041f1ee05401cf005b04f8c0d79e01098155bfcf8b14",
+      "error": null
+    },
+    {
+      "time": 1741401177197,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xe7e3115093523d3f5d7afc326949771bf01dfbd5",
+        "agentName": "01JNSSJ4",
+        "nonce": 1741401166461
+      },
+      "block": 522117180,
+      "hash": "0x365b68d5780b2c265223041f1ee03c015c00f90737dad449d67a6c70f5e72e2f",
+      "error": null
+    },
+    {
+      "time": 1741306768974,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 7620665712200,
+        "isUndelegate": false,
+        "nonce": 1741306759191
+      },
+      "block": 520935803,
+      "hash": "0x9d304da9fe551a2558cd041f0cd97b020556000d008721d4d0ea066acbcf76ce",
+      "error": null
+    },
+    {
+      "time": 1741306754925,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 7620665712200,
+        "nonce": 1741306745003
+      },
+      "block": 520935651,
+      "hash": "0x9dba59318b11caecac81041f0cd8e302031c00872c269caeaadf7c0ac4a35e62",
+      "error": null
+    },
+    {
+      "time": 1741233632899,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 4909008128100,
+        "isUndelegate": false,
+        "nonce": 1741233624396
+      },
+      "block": 520023924,
+      "hash": "0xc05c602a8ad833a4f192041efeef7402012900a3f6669e39dbebab1ffedf9783",
+      "error": null
+    },
+    {
+      "time": 1741233618654,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 4909008128100,
+        "nonce": 1741233609710
+      },
+      "block": 520023767,
+      "hash": "0x3a9df087c38e86028742041efeeed70201fe00f8f4de32fab59cecafa9d75594",
+      "error": null
+    },
+    {
+      "time": 1741148393764,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 11163056110000,
+        "isUndelegate": false,
+        "nonce": 1741148386046
+      },
+      "block": 518956238,
+      "hash": "0x8945beb8cedcc97e5803041eeea4ce017a008878fd1be1980e5799841215edd0",
+      "error": null
+    },
+    {
+      "time": 1741148370225,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 11163056110000,
+        "nonce": 1741148359976
+      },
+      "block": 518955973,
+      "hash": "0x3110e8c9b9076cf13304041eeea3c502011200ef2dfc0ea948a786544acba7b0",
+      "error": null
+    },
+    {
+      "time": 1741148356582,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x1ab67574ec5c27d795eed4ccdeed6a7f9ecdcde5",
+        "agentName": null,
+        "nonce": 1741148323861
+      },
+      "block": 518955794,
+      "hash": "0xf0b9a3233bafe2b4c6ec041eeea31201c500bdb8cedde3996bae0d29de9e0b42",
+      "error": null
+    },
+    {
+      "time": 1741021634586,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x0000000000000000000000000000000000000000",
+        "agentName": "01JNEFJW",
+        "nonce": 1741021626451
+      },
+      "block": 517408432,
+      "hash": "0xf66369b68f65802b9062041ed706b00202220086ffd103ac41fd839a7bc0151d",
+      "error": null
+    },
+    {
+      "time": 1741021618678,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 517408231,
+      "hash": "0x8dcccce64cf1d21860b2041ed705e7014a005cdab9a908673ac15ca5baf627e4",
+      "error": null
+    },
+    {
+      "time": 1741021613527,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x3f93124b21fa663fc12434338dc1ca6aac0ca42a",
+        "agentName": "01JNEFJW",
+        "nonce": 1741021606719
+      },
+      "block": 517408168,
+      "hash": "0xfff809b81d09ca976ee8041ed705a802017d0088b222944192cc0b098f416dca",
+      "error": null
+    },
+    {
+      "time": 1740966964046,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 2017204755900,
+        "isUndelegate": false,
+        "nonce": 1740966956122
+      },
+      "block": 516718961,
+      "hash": "0xcb245bac4e9d899aca91041ecc817102018800f6231e8fdd9883c6deb5b63fea",
+      "error": null
+    },
+    {
+      "time": 1740966947819,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 2017204755900,
+        "nonce": 1740966938329
+      },
+      "block": 516718765,
+      "hash": "0xba886fa7da8c00ff5129041ecc80ad019900a9cac1950a481d4edef6571db10a",
+      "error": null
+    },
+    {
+      "time": 1740864176655,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 4043386836300,
+        "isUndelegate": false,
+        "nonce": 1740864168791
+      },
+      "block": 515433208,
+      "hash": "0xe94a5544023ce90c10e7041eb8e2f801b400ce63c3c9e052c47cb8b12334e182",
+      "error": null
+    },
+    {
+      "time": 1740864160875,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 4043386836300,
+        "nonce": 1740864152665
+      },
+      "block": 515433008,
+      "hash": "0x212d8ceb1b857df0ff5b041eb8e23001c800b90d6900791c96bb8361a0075926",
+      "error": null
+    },
+    {
+      "time": 1740794123212,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 4971056556300,
+        "isUndelegate": false,
+        "nonce": 1740794115463
+      },
+      "block": 514553766,
+      "hash": "0xd6c4296dbdcbaf8ab20f041eab77a602010700b1eb263671eceeaba781d91cfe",
+      "error": null
+    },
+    {
+      "time": 1740794107349,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x000000000056f99d36b6f2e0c51fd41496bbacb8",
+        "wei": 1500000000000,
+        "isUndelegate": false,
+        "nonce": 1740794096284
+      },
+      "block": 514553574,
+      "hash": "0x788b7599c30d65ff1858041eab76e601cc00e65aa71d34d769ef0a113821e5d6",
+      "error": null
+    },
+    {
+      "time": 1740794090154,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 6471056556300,
+        "nonce": 1740794080656
+      },
+      "block": 514553351,
+      "hash": "0x07cc2baeaa6eea22707e041eab76070201300046de7d556155785d6590c685c2",
+      "error": null
+    },
+    {
+      "time": 1740769828853,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x000000000056f99d36b6f2e0c51fd41496bbacb8",
+        "wei": 3566588056400,
+        "isUndelegate": false,
+        "nonce": 1740769821141
+      },
+      "block": 514248319,
+      "hash": "0x9ca0913eab12f90a9ac5041ea6ce7f02020000870efa4954b7086f98ec4827d7",
+      "error": null
+    },
+    {
+      "time": 1740769817750,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 3566588056400,
+        "nonce": 1740769809658
+      },
+      "block": 514248171,
+      "hash": "0x9d0fcb7ca21839737f82041ea6cdeb01f700d03a91e0f7666cd41d33cf7bac2f",
+      "error": null
+    },
+    {
+      "time": 1740707120623,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x000000000056f99d36b6f2e0c51fd41496bbacb8",
+        "wei": 1678583601500,
+        "isUndelegate": false,
+        "nonce": 1740707112255
+      },
+      "block": 513459121,
+      "hash": "0x8f1f8e7b609f3c6492a8041e9ac3b10202ce00aaa460a236c599e1e0546872ac",
+      "error": null
+    },
+    {
+      "time": 1740707109225,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 1678583601500,
+        "nonce": 1740707098653
+      },
+      "block": 513458976,
+      "hash": "0x2da08dd648d6e3519dc0041e9ac32002032c002b328936be17e5244085766802",
+      "error": null
+    },
+    {
+      "time": 1740668303465,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 4785171570200,
+        "isUndelegate": false,
+        "nonce": 1740668295063
+      },
+      "block": 512964616,
+      "hash": "0xdcd1719612eb38b5832e041e93380802020e00f2a8cf1575399978ede9f5d609",
+      "error": null
+    },
+    {
+      "time": 1740668292684,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 4785171570200,
+        "nonce": 1740668283709
+      },
+      "block": 512964477,
+      "hash": "0x64f8c5754493dec9fe90041e93377d02011a00287ea488d3f1e8dee503d67c8f",
+      "error": null
+    },
+    {
+      "time": 1740622455215,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 3442248053000,
+        "isUndelegate": false,
+        "nonce": 1740622446807
+      },
+      "block": 512383664,
+      "hash": "0x42a8fe02438d6cc77ddc041e8a5ab002010600567f8aaba6969a8d2601010bcd",
+      "error": null
+    },
+    {
+      "time": 1740622440030,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 7000000000000,
+        "isUndelegate": false,
+        "nonce": 1740622429487
+      },
+      "block": 512383488,
+      "hash": "0x8e42922cb3309e9b98e6041e8a5a0002018d0071093b4c38a918e5f24f92e9bd",
+      "error": null
+    },
+    {
+      "time": 1740622417665,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 10442248053000,
+        "nonce": 1740622408893
+      },
+      "block": 512383182,
+      "hash": "0x06ed1fbd5b7dc1437770041e8a58ce0191004fe60c95fb9431568d6b545f1592",
+      "error": null
+    },
+    {
+      "time": 1740540602665,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 3422422843900,
+        "isUndelegate": false,
+        "nonce": 1740540592497
+      },
+      "block": 511355991,
+      "hash": "0x3aa8aaefe62f3180a9d3041e7aac57020197004f2750771f0326394dd1ce71cc",
+      "error": null
+    },
+    {
+      "time": 1740540590642,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 3422422843900,
+        "nonce": 1740540582797
+      },
+      "block": 511355824,
+      "hash": "0xdd1195d689226b86f56a041e7aabb0017300847fd2f725ed9ea452e14b6686b6",
+      "error": null
+    },
+    {
+      "time": 1740446981106,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 372324830780,
+        "isUndelegate": false,
+        "nonce": 1740446973394
+      },
+      "block": 510190347,
+      "hash": "0x1b41848d36eb5e3c4cb0041e68e30b02010b000952443f7c9e2d3dfcaf06ab7e",
+      "error": null
+    },
+    {
+      "time": 1740446968509,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 372324830780,
+        "nonce": 1740446960118
+      },
+      "block": 510190183,
+      "hash": "0xe7df7fc21d971945c82a041e68e26702014a0003813638ba2387014f8f192df6",
+      "error": null
+    },
+    {
+      "time": 1740413657492,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 1567485416200,
+        "isUndelegate": false,
+        "nonce": 1740413646344
+      },
+      "block": 509775127,
+      "hash": "0xb4b6d2eef86c61cd041a041e628d1702019800db3d21518161fedb2165a5208b",
+      "error": null
+    },
+    {
+      "time": 1740413643842,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 1567485416200,
+        "nonce": 1740413632605
+      },
+      "block": 509774973,
+      "hash": "0x098a2446fb1a97e4ab3b041e628c7d0201770074e6c333dc301c2c4d87cb7f73",
+      "error": null
+    },
+    {
+      "time": 1740354033552,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 1488554700300,
+        "isUndelegate": false,
+        "nonce": 1740354025036
+      },
+      "block": 509031343,
+      "hash": "0xfdd787e105de57f904a5041e5733af012e00967d0479dfde57570d94c4e39d1d",
+      "error": null
+    },
+    {
+      "time": 1740354019442,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 1488554700300,
+        "nonce": 1740354010036
+      },
+      "block": 509031193,
+      "hash": "0x7f0ee56aaaa5c5d7c720041e573319019d00fe7a99e8aec34908add80f58bee7",
+      "error": null
+    },
+    {
+      "time": 1740331771594,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 3524161667900,
+        "isUndelegate": false,
+        "nonce": 1740331763120
+      },
+      "block": 508760088,
+      "hash": "0x4155da64c6ac8448c7ee041e53101801a3006a8f366995facce15b013c0042ab",
+      "error": null
+    },
+    {
+      "time": 1740331760306,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 3524161667900,
+        "nonce": 1740331751717
+      },
+      "block": 508759935,
+      "hash": "0x1f6c195750b93eaf1ffa041e530f7f011b00a0a50f3eb032edf9d4ae0bd4f162",
+      "error": null
+    },
+    {
+      "time": 1740277677196,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 716224435930,
+        "isUndelegate": false,
+        "nonce": 1740277668485
+      },
+      "block": 508101081,
+      "hash": "0x4bb33b4cd1bf310edc5f041e4901d901840052b37d89940d4a458a275f462883",
+      "error": null
+    },
+    {
+      "time": 1740277664536,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 716224435930,
+        "nonce": 1740277654923
+      },
+      "block": 508100949,
+      "hash": "0xf40623bd6216e3e914f5041e49015501320014c0783b83734755ab96f33e3ee2",
+      "error": null
+    },
+    {
+      "time": 1740254435123,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 1225065209500,
+        "isUndelegate": false,
+        "nonce": 1740254424512
+      },
+      "block": 507818260,
+      "hash": "0xab2e3bdefe7e004c7c9a041e44b11401d30046d2353cf5079baab53a52201c91",
+      "error": null
+    },
+    {
+      "time": 1740254403325,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 1225065209500,
+        "nonce": 1740254390462
+      },
+      "block": 507817839,
+      "hash": "0xe731e97d8f0f5ac16ffd041e44af6f02049400cbd525ebbeb5af0d72f9b91aba",
+      "error": null
+    },
+    {
+      "time": 1740243809120,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 4345029940400,
+        "isUndelegate": false,
+        "nonce": 1740243799829
+      },
+      "block": 507688574,
+      "hash": "0x3181a2d422562a966bbe041e42b67e017900acc4641d17443f682af282cb024d",
+      "error": null
+    },
+    {
+      "time": 1740243797334,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 3600000000000,
+        "isUndelegate": false,
+        "nonce": 1740243783680
+      },
+      "block": 507688426,
+      "hash": "0x4721d8f78a7ff2bdfe43041e42b5ea02020c001df9acc53a149e471f6617acd6",
+      "error": null
+    },
+    {
+      "time": 1740243775848,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 7945029940400,
+        "nonce": 1740243766413
+      },
+      "block": 507688150,
+      "hash": "0x77eff5dcec3c15a50ce1041e42b4d601f7008109455543cf02eec6ce06a08109",
+      "error": null
+    },
+    {
+      "time": 1740182277651,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 1089386711100,
+        "isUndelegate": false,
+        "nonce": 1740182264690
+      },
+      "block": 506943893,
+      "hash": "0x445d12df09285c81db06041e375995016100fc318c624acf87c1489ad6568e0e",
+      "error": null
+    },
+    {
+      "time": 1740182259707,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 1089386711100,
+        "nonce": 1740182250065
+      },
+      "block": 506943673,
+      "hash": "0x9dcdc6cf5e521999facf041e3758b90201040006558552e348d1776cd8e12af4",
+      "error": null
+    },
+    {
+      "time": 1740174294793,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 1561672904800,
+        "isUndelegate": false,
+        "nonce": 1740174286573
+      },
+      "block": 506846834,
+      "hash": "0xdfe6531b20532c43b636041e35de7201c1008c83c5ed92d6dc461e2b5b01bdbe",
+      "error": null
+    },
+    {
+      "time": 1740174284633,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 1561672904800,
+        "nonce": 1740174276358
+      },
+      "block": 506846700,
+      "hash": "0x02970fc6fa846d6d600f041e35ddec0201c0005f299789cfc85c1ca2f999b523",
+      "error": null
+    },
+    {
+      "time": 1740153747979,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 3906926241700,
+        "isUndelegate": false,
+        "nonce": 1740153736794
+      },
+      "block": 506587966,
+      "hash": "0x132a6affae128e743693041e31eb3e02018e0066c05b3dacc84701ae104a6be6",
+      "error": null
+    },
+    {
+      "time": 1740153732595,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 3500000000000,
+        "isUndelegate": false,
+        "nonce": 1740153717887
+      },
+      "block": 506587761,
+      "hash": "0x23ad49fe5a0fd3ae087b041e31ea7102024b00b5e780ad368442b5f6cce4375e",
+      "error": null
+    },
+    {
+      "time": 1740153713355,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 7406926241700,
+        "nonce": 1740153703462
+      },
+      "block": 506587517,
+      "hash": "0x4640a7ed274dc5cbc66a041e31e97d02023e004debe1d7f2e22a1e1e18fa2f3f",
+      "error": null
+    },
+    {
+      "time": 1740115444385,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 289859990000,
+        "isUndelegate": false,
+        "nonce": 1740115434918
+      },
+      "block": 506114929,
+      "hash": "0x7516a6dd0c17dfbaef81041e2ab3710193008c3263cb199ef58ed1a54202e419",
+      "error": null
+    },
+    {
+      "time": 1740115427604,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 289859990000,
+        "nonce": 1740115416431
+      },
+      "block": 506114737,
+      "hash": "0xf8d9bf6beb277b973864041e2ab2b101a900bd0548998659601581a71037fbec",
+      "error": null
+    },
+    {
+      "time": 1740114641438,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 634468500080,
+        "isUndelegate": false,
+        "nonce": 1740114628811
+      },
+      "block": 506104930,
+      "hash": "0x2a704a6d7175b4de6470041e2a8c62020126001aabbe8398ceed71e36c7e3344",
+      "error": null
+    },
+    {
+      "time": 1740114604388,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 634468500080,
+        "nonce": 1740114595644
+      },
+      "block": 506104478,
+      "hash": "0xee92786b244d9217628b041e2a8a9e020367001207666a8010468c40c24816f6",
+      "error": null
+    },
+    {
+      "time": 1740114563854,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x0000000000000000000000000000000000000000",
+        "agentName": "01JMKEHM",
+        "nonce": 1740114557090
+      },
+      "block": 506103968,
+      "hash": "0x23e97b1adb1d94263cb7041e2a88a001aa00b4bc47e8ae15168491d1ac9606ce",
+      "error": null
+    },
+    {
+      "time": 1740114556568,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": false
+      },
+      "block": 506103881,
+      "hash": "0xe30b218a6b8e4782d2c1041e2a8849019a00ec7082459636fcf4de66067e4d73",
+      "error": null
+    },
+    {
+      "time": 1740114554873,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0xbf30ac1ffef0b939972d00fecafce9fff03df574",
+        "agentName": "01JMKEHM",
+        "nonce": 1740114547696
+      },
+      "block": 506103864,
+      "hash": "0x845e4d29e2c1dece081d041e2a883802016300fbb883ddb064246c92e0118d5a",
+      "error": null
+    },
+    {
+      "time": 1740114238931,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x0000000000000000000000000000000000000000",
+        "agentName": "01JMKE7G",
+        "nonce": 1740114230679
+      },
+      "block": 506099987,
+      "hash": "0xc61d390e80b2e4eceb5c041e2a791301b000e642b1a44730dde3278fc929fc6b",
+      "error": null
+    },
+    {
+      "time": 1740114230137,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "evmUserModify",
+        "usingBigBlocks": true
+      },
+      "block": 506099891,
+      "hash": "0x04eeb231d94b37d95096041e2a78b301be00d8141fc3c6710b709db90aee5b3e",
+      "error": null
+    },
+    {
+      "time": 1740114228378,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "approveAgent",
+        "signatureChainId": "0x3e7",
+        "hyperliquidChain": "Mainnet",
+        "agentAddress": "0x086e481d3740841d7a3a439b3369e27842b1f4f1",
+        "agentName": "01JMKE7G",
+        "nonce": 1740114215677
+      },
+      "block": 506099875,
+      "hash": "0x9e042aafda6bcd927547041e2a78a30203bb0022b3516d41f3739df16c8db1ad",
+      "error": null
+    },
+    {
+      "time": 1740108956466,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 1140404798700,
+        "isUndelegate": false,
+        "nonce": 1740108945072
+      },
+      "block": 506035837,
+      "hash": "0x13022f1ed44e4c6f10e7041e297e7d0137001bc8339644ee08a88f4e0e358210",
+      "error": null
+    },
+    {
+      "time": 1740108942700,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 1100000000000,
+        "isUndelegate": false,
+        "nonce": 1740108931289
+      },
+      "block": 506035642,
+      "hash": "0xd4b90799eb32c05af4ac041e297dba0201c500427c0a2fdc60976393220acb1f",
+      "error": null
+    },
+    {
+      "time": 1740108918812,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 2240404798700,
+        "nonce": 1740108905879
+      },
+      "block": 506035358,
+      "hash": "0xb8f46b6dc3ef879f96db041e297c9e01cc00396806ebc1f14c9d0428a663deda",
+      "error": null
+    },
+    {
+      "time": 1740081619351,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 539847873020,
+        "isUndelegate": false,
+        "nonce": 1740081607462
+      },
+      "block": 505699847,
+      "hash": "0x978b90c6f6f64d708786041e245e0701d3003bd64f828b568a6373cf309cc4f2",
+      "error": null
+    },
+    {
+      "time": 1740081605688,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 539847873020,
+        "nonce": 1740081596663
+      },
+      "block": 505699683,
+      "hash": "0x7ca88f1050aceefe5624041e245d6302020b0086a50ca63ed163ba7b1ff9c61a",
+      "error": null
+    },
+    {
+      "time": 1740066401321,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 103084769450,
+        "isUndelegate": false,
+        "nonce": 1740066390352
+      },
+      "block": 505509418,
+      "hash": "0x70d23aad8649706d18b9041e21762a02016e00606053bb13df58bd6400a33073",
+      "error": null
+    },
+    {
+      "time": 1740066357702,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "cDeposit",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "wei": 103084769450,
+        "nonce": 1740066347581
+      },
+      "block": 505508898,
+      "hash": "0xec5d290e4004f2f1bdf9041e217422013a0089c3d06ca0af23be8af3ddb0f773",
+      "error": null
+    },
+    {
+      "time": 1740062496647,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0xa23b4556090260828ff3f939d2dbdd4f318b5f1f",
+        "wei": 571080265900,
+        "isUndelegate": false,
+        "nonce": 1740062487920
+      },
+      "block": 505460441,
+      "hash": "0xf2cc19bd038af706c76c041e20b6d9020158003e1ea788e803e91f87dc2a23a0",
+      "error": null
+    },
+    {
+      "time": 1740062481324,
+      "user": "0x77c3ea550d2da44b120e55071f57a108f8dd5e45",
+      "action": {
+        "type": "tokenDelegate",
+        "signatureChainId": "0xa4b1",
+        "hyperliquidChain": "Mainnet",
+        "validator": "0x8b8c3966870321866e7b7091c382308a6a97e9b1",
+        "wei": 500000000000,
+        "isUndelegate": false,
+        "nonce": 1740062467917
+      },
+      "block": 505460263,
+      "hash": "0x1ca31aa3030844ec530f041e20b627020112000b99c6e04d08cf583cfd60085f",
+      "error": null
+    }
+  ]
+}
