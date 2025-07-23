@@ -1,0 +1,35 @@
+Total HYPE holders: 146,226 (from HypurrScan)
+
+Total $HYPE staked: 422,201,754.693
+
+Total $HYPE Inflow (from Arbitrum): 
+
+Total $HYPE bridged (via Hybridge): $41,437,765
+
+Total $wHPE holders: 96,911
+
+Total $HYPE deposited to lending/borrowing pools (to HypurrFi):
+  - Borrowed: 2.36M HYPE
+  - Supplied: 2.43M HYPE
+
+Total $HYPE deposited to lending/borrowing pools (to Hyperlend):
+
+wstHYPE
+  - TVL: $254M
+
+HYPE
+  - TVL: $206M
+
+kHYPE
+  - TVL: $19.4M
+
+
+Total kHYPE minted: No minting action yet (only approvals)
+
+Total stHYPE minted: 77,436.90 (from July 1 - July 17)
+
+Total wstHYPE minted: 32,009.33 (from July 1 - July 17)
+
+Where are wstHYPE being used?: mostly on hyperswap DEX / Uniswap (from  : https://www.hyperscan.com/advanced-filter?token_contract_address_hashes_to_include=0x94e8396e0869c9F2200760aF0621aFd240E1CF38&token_contract_symbols_to_include=wstHYPE)
+
+Where is wHYPE being used?: going to hybra finance (contract address: 0x0d76Fcf33C6EDeD05696549757d136788C98CC9D)
